@@ -1,0 +1,501 @@
+country,city,road_id,road_name,road_type,district,latitude,longitude,avg_daily_traffic,lanes,speed_limit_kmh
+Indonesia,Jakarta,RD-0123,Jl. Segment 123,Jalan Lingkungan,Sunter,-6.123726,106.96898,648,1,20
+Indonesia,Jakarta,RD-0175,Jl. Segment 175,Jalan Arteri,Kemang,-6.140247,106.809493,7198,4,50
+Indonesia,Jakarta,RD-0184,Jl. Segment 184,Jalan Tol,Sudirman,-6.17926,106.705141,11368,8,120
+Indonesia,Jakarta,RD-0198,Jl. Segment 198,Jalan Lingkungan,Blok M,-6.342497,106.74193,1594,2,20
+Indonesia,Jakarta,RD-0130,Jl. Segment 130,Jalan Kolektor,Mangga Dua,-6.149785,106.76061,4380,4,60
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,1154,1,30
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,8895,4,80
+Indonesia,Jakarta,RD-0051,Jl. Segment 51,Jalan Tol,Kelapa Gading,-6.14526,106.981656,10880,4,120
+Indonesia,Jakarta,RD-0138,Jl. Segment 138,Jalan Arteri,Senen,-6.340068,106.862903,6453,4,80
+Indonesia,Jakarta,RD-0059,Jl. Segment 59,Jalan Tol,Kelapa Gading,-6.113926,106.836515,5584,4,80
+Indonesia,Jakarta,RD-0104,Jl. Segment 104,Jalan Kolektor,Depok,-6.197976,106.951912,2947,4,60
+Indonesia,Jakarta,RD-0110,Jl. Segment 110,Jalan Kolektor,Blok M,-6.237822,106.813328,1637,2,40
+Indonesia,Jakarta,RD-0095,Jl. Segment 95,Jalan Lokal,PIK,-6.108713,106.88763,1133,2,40
+Indonesia,Jakarta,RD-0056,Jl. Segment 56,Jalan Lingkungan,Kuningan,-6.126174,106.845759,729,1,20
+Indonesia,Jakarta,RD-0184,Jl. Segment 184,Jalan Tol,Sudirman,-6.17926,106.705141,10555,8,120
+Indonesia,Jakarta,RD-0058,Jl. Segment 58,Jalan Lokal,Pluit,-6.133348,106.85001,730,1,40
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,986,1,30
+Indonesia,Jakarta,RD-0165,Jl. Segment 165,Jalan Lingkungan,Cibubur,-6.194788,106.799688,2313,2,20
+Indonesia,Jakarta,RD-0179,Jl. Segment 179,Jalan Lokal,Mangga Dua,-6.182548,106.959081,2740,2,20
+Indonesia,Jakarta,RD-0045,Jl. Segment 45,Jalan Lokal,Sudirman,-6.24985,106.960055,2328,2,40
+Indonesia,Jakarta,RD-0039,Jl. Segment 39,Jalan Lokal,Cawang,-6.20822,106.765446,820,1,30
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,732,1,40
+Indonesia,Jakarta,RD-0053,Jl. Segment 53,Jalan Lingkungan,Blok M,-6.265586,106.820777,1151,2,40
+Indonesia,Jakarta,RD-0132,Jl. Segment 132,Jalan Tol,Cawang,-6.138842,106.708579,10384,8,100
+Indonesia,Jakarta,RD-0001,Jl. Segment 1,Jalan Kolektor,PIK,-6.173938,106.920654,11313,4,60
+Indonesia,Jakarta,RD-0184,Jl. Segment 184,Jalan Tol,Sudirman,-6.17926,106.705141,10524,8,120
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,7400,4,120
+Indonesia,Jakarta,RD-0150,Jl. Segment 150,Jalan Lingkungan,Cawang,-6.144809,106.984377,1119,2,30
+Indonesia,Jakarta,RD-0167,Jl. Segment 167,Jalan Lingkungan,Bekasi,-6.275343,106.917773,781,2,20
+Indonesia,Jakarta,RD-0057,Jl. Segment 57,Jalan Lokal,Kelapa Gading,-6.101649,106.907809,1234,2,20
+Indonesia,Jakarta,RD-0195,Jl. Segment 195,Jalan Tol,Kelapa Gading,-6.114807,106.862922,10275,4,100
+Indonesia,Jakarta,RD-0175,Jl. Segment 175,Jalan Arteri,Kemang,-6.140247,106.809493,8732,4,50
+Indonesia,Jakarta,RD-0118,Jl. Segment 118,Jalan Tol,Menteng,-6.177667,106.941969,19448,8,100
+Indonesia,Jakarta,RD-0031,Jl. Segment 31,Jalan Kolektor,Bekasi,-6.302765,106.825749,4813,4,60
+Indonesia,Jakarta,RD-0137,Jl. Segment 137,Jalan Lingkungan,Bekasi,-6.240589,106.743749,469,1,40
+Indonesia,Jakarta,RD-0050,Jl. Segment 50,Jalan Kolektor,Senen,-6.289013,106.84468,10151,4,50
+Indonesia,Jakarta,RD-0067,Jl. Segment 67,Jalan Arteri,Kuningan,-6.156561,106.874324,6604,4,50
+Indonesia,Jakarta,RD-0187,Jl. Segment 187,Jalan Tol,Mangga Dua,-6.328391,106.838454,8317,4,100
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,8426,4,80
+Indonesia,Jakarta,RD-0161,Jl. Segment 161,Jalan Lingkungan,Mangga Dua,-6.178676,106.759649,567,1,40
+Indonesia,Jakarta,RD-0169,Jl. Segment 169,Jalan Lingkungan,Cibubur,-6.164967,106.861978,1500,2,40
+Indonesia,Jakarta,RD-0171,Jl. Segment 171,Jalan Lokal,Kuningan,-6.159676,106.925389,1323,2,40
+Indonesia,Jakarta,RD-0174,Jl. Segment 174,Jalan Tol,Slipi,-6.296194,106.855528,7575,4,120
+Indonesia,Jakarta,RD-0162,Jl. Segment 162,Jalan Lingkungan,Mangga Dua,-6.247404,106.867174,998,1,20
+Indonesia,Jakarta,RD-0033,Jl. Segment 33,Jalan Arteri,Cawang,-6.133781,106.923052,11310,4,80
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,857,1,40
+Indonesia,Jakarta,RD-0157,Jl. Segment 157,Jalan Lingkungan,Blok M,-6.332067,106.899775,1088,1,40
+Indonesia,Jakarta,RD-0004,Jl. Segment 4,Jalan Kolektor,Mangga Dua,-6.112216,106.954036,5588,4,60
+Indonesia,Jakarta,RD-0115,Jl. Segment 115,Jalan Lingkungan,Senayan,-6.330012,106.711333,733,2,40
+Indonesia,Jakarta,RD-0116,Jl. Segment 116,Jalan Kolektor,Kuningan,-6.141396,106.887696,4486,4,50
+Indonesia,Jakarta,RD-0099,Jl. Segment 99,Jalan Arteri,Senen,-6.14518,106.79882,11266,6,80
+Indonesia,Jakarta,RD-0096,Jl. Segment 96,Jalan Arteri,Senen,-6.251275,106.7402,6255,4,60
+Indonesia,Jakarta,RD-0186,Jl. Segment 186,Jalan Lokal,Kemang,-6.206924,106.99838,675,1,30
+Indonesia,Jakarta,RD-0051,Jl. Segment 51,Jalan Tol,Kelapa Gading,-6.14526,106.981656,8811,4,120
+Indonesia,Jakarta,RD-0146,Jl. Segment 146,Jalan Kolektor,Mangga Dua,-6.27297,106.939569,4159,2,50
+Indonesia,Jakarta,RD-0074,Jl. Segment 74,Jalan Tol,Sunter,-6.270629,106.975717,14596,8,80
+Indonesia,Jakarta,RD-0188,Jl. Segment 188,Jalan Tol,Slipi,-6.347314,106.738856,9529,6,100
+Indonesia,Jakarta,RD-0177,Jl. Segment 177,Jalan Tol,Sunter,-6.237757,106.778588,5779,4,100
+Indonesia,Jakarta,RD-0152,Jl. Segment 152,Jalan Kolektor,Grogol,-6.267833,106.747978,3146,2,50
+Indonesia,Jakarta,RD-0115,Jl. Segment 115,Jalan Lingkungan,Senayan,-6.330012,106.711333,723,2,40
+Indonesia,Jakarta,RD-0023,Jl. Segment 23,Jalan Arteri,Kuningan,-6.119639,106.708231,7084,4,80
+Indonesia,Jakarta,RD-0196,Jl. Segment 196,Jalan Kolektor,Menteng,-6.233388,106.770735,2379,2,60
+Indonesia,Jakarta,RD-0191,Jl. Segment 191,Jalan Lokal,Sudirman,-6.255355,106.929019,858,1,30
+Indonesia,Jakarta,RD-0191,Jl. Segment 191,Jalan Lokal,Sudirman,-6.255355,106.929019,851,1,30
+Indonesia,Jakarta,RD-0076,Jl. Segment 76,Jalan Lingkungan,Sudirman,-6.250253,106.967498,558,1,20
+Indonesia,Jakarta,RD-0024,Jl. Segment 24,Jalan Tol,Menteng,-6.106264,106.860745,19243,8,100
+Indonesia,Jakarta,RD-0057,Jl. Segment 57,Jalan Lokal,Kelapa Gading,-6.101649,106.907809,1329,2,20
+Indonesia,Jakarta,RD-0115,Jl. Segment 115,Jalan Lingkungan,Senayan,-6.330012,106.711333,735,2,40
+Indonesia,Jakarta,RD-0199,Jl. Segment 199,Jalan Kolektor,Cawang,-6.199783,106.954992,6482,4,50
+Indonesia,Jakarta,RD-0200,Jl. Segment 200,Jalan Tol,Kemang,-6.174337,106.778904,16648,8,80
+Indonesia,Jakarta,RD-0184,Jl. Segment 184,Jalan Tol,Sudirman,-6.17926,106.705141,11911,8,120
+Indonesia,Jakarta,RD-0182,Jl. Segment 182,Jalan Lingkungan,PIK,-6.104177,106.76465,1267,1,20
+Indonesia,Jakarta,RD-0086,Jl. Segment 86,Jalan Lokal,Senayan,-6.285388,106.723021,1258,2,40
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,3806,2,50
+Indonesia,Jakarta,RD-0037,Jl. Segment 37,Jalan Arteri,Bekasi,-6.237178,106.966539,10353,4,60
+Indonesia,Jakarta,RD-0060,Jl. Segment 60,Jalan Lingkungan,Kelapa Gading,-6.341224,106.83104,1292,2,30
+Indonesia,Jakarta,RD-0108,Jl. Segment 108,Jalan Tol,Depok,-6.200129,106.855835,10479,4,80
+Indonesia,Jakarta,RD-0052,Jl. Segment 52,Jalan Kolektor,Kuningan,-6.229081,106.803191,4483,4,40
+Indonesia,Jakarta,RD-0009,Jl. Segment 9,Jalan Tol,Kelapa Gading,-6.303765,106.787068,12711,8,80
+Indonesia,Jakarta,RD-0166,Jl. Segment 166,Jalan Lingkungan,Grogol,-6.28512,106.733146,519,1,40
+Indonesia,Jakarta,RD-0073,Jl. Segment 73,Jalan Kolektor,Menteng,-6.210248,106.992234,6643,4,50
+Indonesia,Jakarta,RD-0188,Jl. Segment 188,Jalan Tol,Slipi,-6.347314,106.738856,10315,6,100
+Indonesia,Jakarta,RD-0126,Jl. Segment 126,Jalan Lingkungan,Menteng,-6.172951,106.764753,902,2,20
+Indonesia,Jakarta,RD-0055,Jl. Segment 55,Jalan Lokal,PIK,-6.158559,106.964674,412,1,30
+Indonesia,Jakarta,RD-0097,Jl. Segment 97,Jalan Tol,Kelapa Gading,-6.227854,106.904691,10664,6,80
+Indonesia,Jakarta,RD-0159,Jl. Segment 159,Jalan Kolektor,Senen,-6.255875,106.993378,9652,4,50
+Indonesia,Jakarta,RD-0133,Jl. Segment 133,Jalan Arteri,Senen,-6.17707,106.779685,14389,6,60
+Indonesia,Jakarta,RD-0055,Jl. Segment 55,Jalan Lokal,PIK,-6.158559,106.964674,458,1,30
+Indonesia,Jakarta,RD-0076,Jl. Segment 76,Jalan Lingkungan,Sudirman,-6.250253,106.967498,615,1,20
+Indonesia,Jakarta,RD-0009,Jl. Segment 9,Jalan Tol,Kelapa Gading,-6.303765,106.787068,12033,8,80
+Indonesia,Jakarta,RD-0032,Jl. Segment 32,Jalan Tol,Blok M,-6.295865,106.703131,5514,4,120
+Indonesia,Jakarta,RD-0041,Jl. Segment 41,Jalan Lingkungan,Depok,-6.103,106.968562,1680,2,30
+Indonesia,Jakarta,RD-0146,Jl. Segment 146,Jalan Kolektor,Mangga Dua,-6.27297,106.939569,4136,2,50
+Indonesia,Jakarta,RD-0079,Jl. Segment 79,Jalan Kolektor,PIK,-6.150981,106.899315,2915,2,60
+Indonesia,Jakarta,RD-0010,Jl. Segment 10,Jalan Lingkungan,PIK,-6.160512,106.968443,694,1,30
+Indonesia,Jakarta,RD-0126,Jl. Segment 126,Jalan Lingkungan,Menteng,-6.172951,106.764753,1056,2,20
+Indonesia,Jakarta,RD-0054,Jl. Segment 54,Jalan Lingkungan,Menteng,-6.248266,106.944855,1385,1,40
+Indonesia,Jakarta,RD-0197,Jl. Segment 197,Jalan Arteri,Cibubur,-6.227477,106.949193,5852,6,60
+Indonesia,Jakarta,RD-0191,Jl. Segment 191,Jalan Lokal,Sudirman,-6.255355,106.929019,935,1,30
+Indonesia,Jakarta,RD-0115,Jl. Segment 115,Jalan Lingkungan,Senayan,-6.330012,106.711333,698,2,40
+Indonesia,Jakarta,RD-0188,Jl. Segment 188,Jalan Tol,Slipi,-6.347314,106.738856,9071,6,100
+Indonesia,Jakarta,RD-0132,Jl. Segment 132,Jalan Tol,Cawang,-6.138842,106.708579,8740,8,100
+Indonesia,Jakarta,RD-0005,Jl. Segment 5,Jalan Tol,Sudirman,-6.34976,106.861835,8367,4,80
+Indonesia,Jakarta,RD-0168,Jl. Segment 168,Jalan Lingkungan,Blok M,-6.176148,106.869758,2841,2,20
+Indonesia,Jakarta,RD-0055,Jl. Segment 55,Jalan Lokal,PIK,-6.158559,106.964674,437,1,30
+Indonesia,Jakarta,RD-0199,Jl. Segment 199,Jalan Kolektor,Cawang,-6.199783,106.954992,6579,4,50
+Indonesia,Jakarta,RD-0041,Jl. Segment 41,Jalan Lingkungan,Depok,-6.103,106.968562,1275,2,30
+Indonesia,Jakarta,RD-0068,Jl. Segment 68,Jalan Kolektor,Cibubur,-6.294868,106.911435,2386,2,50
+Indonesia,Jakarta,RD-0182,Jl. Segment 182,Jalan Lingkungan,PIK,-6.104177,106.76465,1285,1,20
+Indonesia,Jakarta,RD-0151,Jl. Segment 151,Jalan Lingkungan,Kelapa Gading,-6.345451,106.935468,799,1,40
+Indonesia,Jakarta,RD-0018,Jl. Segment 18,Jalan Lokal,Depok,-6.155299,106.704811,1374,2,40
+Indonesia,Jakarta,RD-0028,Jl. Segment 28,Jalan Kolektor,Mangga Dua,-6.157486,106.795632,4253,4,50
+Indonesia,Jakarta,RD-0098,Jl. Segment 98,Jalan Lingkungan,Senayan,-6.336696,106.99309,1226,1,30
+Indonesia,Jakarta,RD-0061,Jl. Segment 61,Jalan Lokal,Kuningan,-6.119442,106.741716,775,1,40
+Indonesia,Jakarta,RD-0172,Jl. Segment 172,Jalan Arteri,Bekasi,-6.154833,106.865005,6936,4,50
+Indonesia,Jakarta,RD-0087,Jl. Segment 87,Jalan Lokal,Sudirman,-6.29308,106.848848,644,1,40
+Indonesia,Jakarta,RD-0128,Jl. Segment 128,Jalan Lingkungan,PIK,-6.34636,106.780884,1183,2,40
+Indonesia,Jakarta,RD-0016,Jl. Segment 16,Jalan Kolektor,Cawang,-6.236674,106.859437,2863,2,60
+Indonesia,Jakarta,RD-0142,Jl. Segment 142,Jalan Lingkungan,PIK,-6.29715,106.800208,465,1,20
+Indonesia,Jakarta,RD-0001,Jl. Segment 1,Jalan Kolektor,PIK,-6.173938,106.920654,10988,4,60
+Indonesia,Jakarta,RD-0139,Jl. Segment 139,Jalan Kolektor,PIK,-6.228993,106.957449,9637,4,50
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,1117,1,30
+Indonesia,Jakarta,RD-0120,Jl. Segment 120,Jalan Kolektor,Kuningan,-6.344264,106.916692,2370,2,50
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,704,1,40
+Indonesia,Jakarta,RD-0136,Jl. Segment 136,Jalan Lingkungan,Mangga Dua,-6.278069,106.71538,838,2,20
+Indonesia,Jakarta,RD-0192,Jl. Segment 192,Jalan Lingkungan,Mangga Dua,-6.203036,106.907293,606,2,40
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4609,2,50
+Indonesia,Jakarta,RD-0060,Jl. Segment 60,Jalan Lingkungan,Kelapa Gading,-6.341224,106.83104,1275,2,30
+Indonesia,Jakarta,RD-0053,Jl. Segment 53,Jalan Lingkungan,Blok M,-6.265586,106.820777,1294,2,40
+Indonesia,Jakarta,RD-0053,Jl. Segment 53,Jalan Lingkungan,Blok M,-6.265586,106.820777,1228,2,40
+Indonesia,Jakarta,RD-0193,Jl. Segment 193,Jalan Kolektor,Tangerang,-6.152353,106.802273,5312,4,60
+Indonesia,Jakarta,RD-0098,Jl. Segment 98,Jalan Lingkungan,Senayan,-6.336696,106.99309,925,1,30
+Indonesia,Jakarta,RD-0175,Jl. Segment 175,Jalan Arteri,Kemang,-6.140247,106.809493,7484,4,50
+Indonesia,Jakarta,RD-0171,Jl. Segment 171,Jalan Lokal,Kuningan,-6.159676,106.925389,1540,2,40
+Indonesia,Jakarta,RD-0121,Jl. Segment 121,Jalan Kolektor,Kuningan,-6.269115,106.804108,3645,2,40
+Indonesia,Jakarta,RD-0050,Jl. Segment 50,Jalan Kolektor,Senen,-6.289013,106.84468,10663,4,50
+Indonesia,Jakarta,RD-0160,Jl. Segment 160,Jalan Tol,Senayan,-6.247096,106.782557,6727,4,100
+Indonesia,Jakarta,RD-0036,Jl. Segment 36,Jalan Tol,Sunter,-6.195703,106.716284,9925,6,120
+Indonesia,Jakarta,RD-0159,Jl. Segment 159,Jalan Kolektor,Senen,-6.255875,106.993378,8321,4,50
+Indonesia,Jakarta,RD-0066,Jl. Segment 66,Jalan Lingkungan,Senen,-6.2594,106.913179,921,2,30
+Indonesia,Jakarta,RD-0132,Jl. Segment 132,Jalan Tol,Cawang,-6.138842,106.708579,9273,8,100
+Indonesia,Jakarta,RD-0087,Jl. Segment 87,Jalan Lokal,Sudirman,-6.29308,106.848848,669,1,40
+Indonesia,Jakarta,RD-0120,Jl. Segment 120,Jalan Kolektor,Kuningan,-6.344264,106.916692,3093,2,50
+Indonesia,Jakarta,RD-0075,Jl. Segment 75,Jalan Kolektor,Depok,-6.295411,106.821601,3406,2,40
+Indonesia,Jakarta,RD-0149,Jl. Segment 149,Jalan Arteri,Cakung,-6.265907,106.846878,9678,6,50
+Indonesia,Jakarta,RD-0008,Jl. Segment 8,Jalan Lokal,PIK,-6.18944,106.825046,886,2,30
+Indonesia,Jakarta,RD-0180,Jl. Segment 180,Jalan Tol,Sunter,-6.282284,106.834397,15051,6,80
+Indonesia,Jakarta,RD-0011,Jl. Segment 11,Jalan Lokal,Menteng,-6.229897,106.715647,610,1,20
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,9539,4,60
+Indonesia,Jakarta,RD-0144,Jl. Segment 144,Jalan Arteri,Kemang,-6.27231,106.761228,7001,4,60
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,8771,4,60
+Indonesia,Jakarta,RD-0004,Jl. Segment 4,Jalan Kolektor,Mangga Dua,-6.112216,106.954036,6467,4,60
+Indonesia,Jakarta,RD-0075,Jl. Segment 75,Jalan Kolektor,Depok,-6.295411,106.821601,3072,2,40
+Indonesia,Jakarta,RD-0099,Jl. Segment 99,Jalan Arteri,Senen,-6.14518,106.79882,12835,6,80
+Indonesia,Jakarta,RD-0152,Jl. Segment 152,Jalan Kolektor,Grogol,-6.267833,106.747978,2526,2,50
+Indonesia,Jakarta,RD-0103,Jl. Segment 103,Jalan Kolektor,Menteng,-6.260284,106.793636,2461,2,40
+Indonesia,Jakarta,RD-0008,Jl. Segment 8,Jalan Lokal,PIK,-6.18944,106.825046,795,2,30
+Indonesia,Jakarta,RD-0106,Jl. Segment 106,Jalan Lokal,Pluit,-6.298551,106.832264,548,1,30
+Indonesia,Jakarta,RD-0053,Jl. Segment 53,Jalan Lingkungan,Blok M,-6.265586,106.820777,1171,2,40
+Indonesia,Jakarta,RD-0157,Jl. Segment 157,Jalan Lingkungan,Blok M,-6.332067,106.899775,905,1,40
+Indonesia,Jakarta,RD-0116,Jl. Segment 116,Jalan Kolektor,Kuningan,-6.141396,106.887696,5025,4,50
+Indonesia,Jakarta,RD-0193,Jl. Segment 193,Jalan Kolektor,Tangerang,-6.152353,106.802273,4457,4,60
+Indonesia,Jakarta,RD-0166,Jl. Segment 166,Jalan Lingkungan,Grogol,-6.28512,106.733146,581,1,40
+Indonesia,Jakarta,RD-0033,Jl. Segment 33,Jalan Arteri,Cawang,-6.133781,106.923052,10683,4,80
+Indonesia,Jakarta,RD-0026,Jl. Segment 26,Jalan Lokal,Bekasi,-6.234315,106.877826,690,1,30
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,6500,4,100
+Indonesia,Jakarta,RD-0006,Jl. Segment 6,Jalan Lingkungan,Senayan,-6.210781,106.96127,478,1,40
+Indonesia,Jakarta,RD-0075,Jl. Segment 75,Jalan Kolektor,Depok,-6.295411,106.821601,3074,2,40
+Indonesia,Jakarta,RD-0153,Jl. Segment 153,Jalan Lokal,Cibubur,-6.194738,106.891756,938,1,30
+Indonesia,Jakarta,RD-0030,Jl. Segment 30,Jalan Lokal,Sunter,-6.340319,106.750998,1030,2,30
+Indonesia,Jakarta,RD-0037,Jl. Segment 37,Jalan Arteri,Bekasi,-6.237178,106.966539,10105,4,60
+Indonesia,Jakarta,RD-0190,Jl. Segment 190,Jalan Lingkungan,PIK,-6.317618,106.899834,844,2,40
+Indonesia,Jakarta,RD-0003,Jl. Segment 3,Jalan Lokal,Tangerang,-6.267631,106.814963,1151,2,40
+Indonesia,Jakarta,RD-0148,Jl. Segment 148,Jalan Tol,Menteng,-6.107267,106.727882,6157,4,80
+Indonesia,Jakarta,RD-0023,Jl. Segment 23,Jalan Arteri,Kuningan,-6.119639,106.708231,7330,4,80
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,26236,8,120
+Indonesia,Jakarta,RD-0145,Jl. Segment 145,Jalan Kolektor,Cakung,-6.115097,106.977685,1965,2,50
+Indonesia,Jakarta,RD-0180,Jl. Segment 180,Jalan Tol,Sunter,-6.282284,106.834397,19026,6,80
+Indonesia,Jakarta,RD-0156,Jl. Segment 156,Jalan Kolektor,Kuningan,-6.221012,106.987461,2138,2,50
+Indonesia,Jakarta,RD-0041,Jl. Segment 41,Jalan Lingkungan,Depok,-6.103,106.968562,1347,2,30
+Indonesia,Jakarta,RD-0039,Jl. Segment 39,Jalan Lokal,Cawang,-6.20822,106.765446,794,1,30
+Indonesia,Jakarta,RD-0128,Jl. Segment 128,Jalan Lingkungan,PIK,-6.34636,106.780884,976,2,40
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4609,2,50
+Indonesia,Jakarta,RD-0180,Jl. Segment 180,Jalan Tol,Sunter,-6.282284,106.834397,17769,6,80
+Indonesia,Jakarta,RD-0063,Jl. Segment 63,Jalan Arteri,Depok,-6.267911,106.948252,13491,6,50
+Indonesia,Jakarta,RD-0136,Jl. Segment 136,Jalan Lingkungan,Mangga Dua,-6.278069,106.71538,835,2,20
+Indonesia,Jakarta,RD-0028,Jl. Segment 28,Jalan Kolektor,Mangga Dua,-6.157486,106.795632,3729,4,50
+Indonesia,Jakarta,RD-0078,Jl. Segment 78,Jalan Tol,Slipi,-6.178469,106.773248,27433,8,100
+Indonesia,Jakarta,RD-0050,Jl. Segment 50,Jalan Kolektor,Senen,-6.289013,106.84468,9581,4,50
+Indonesia,Jakarta,RD-0005,Jl. Segment 5,Jalan Tol,Sudirman,-6.34976,106.861835,8101,4,80
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,1105,1,30
+Indonesia,Jakarta,RD-0004,Jl. Segment 4,Jalan Kolektor,Mangga Dua,-6.112216,106.954036,6757,4,60
+Indonesia,Jakarta,RD-0141,Jl. Segment 141,Jalan Tol,Senen,-6.267277,106.929729,6388,4,100
+Indonesia,Jakarta,RD-0027,Jl. Segment 27,Jalan Tol,Bekasi,-6.331469,106.820205,7749,4,120
+Indonesia,Jakarta,RD-0199,Jl. Segment 199,Jalan Kolektor,Cawang,-6.199783,106.954992,7280,4,50
+Indonesia,Jakarta,RD-0122,Jl. Segment 122,Jalan Kolektor,Pluit,-6.113802,106.866518,4592,4,50
+Indonesia,Jakarta,RD-0058,Jl. Segment 58,Jalan Lokal,Pluit,-6.133348,106.85001,598,1,40
+Indonesia,Jakarta,RD-0164,Jl. Segment 164,Jalan Lingkungan,Menteng,-6.174071,106.934802,661,1,30
+Indonesia,Jakarta,RD-0082,Jl. Segment 82,Jalan Kolektor,Senayan,-6.288364,106.817472,3042,2,60
+Indonesia,Jakarta,RD-0179,Jl. Segment 179,Jalan Lokal,Mangga Dua,-6.182548,106.959081,2556,2,20
+Indonesia,Jakarta,RD-0144,Jl. Segment 144,Jalan Arteri,Kemang,-6.27231,106.761228,6507,4,60
+Indonesia,Jakarta,RD-0036,Jl. Segment 36,Jalan Tol,Sunter,-6.195703,106.716284,8245,6,120
+Indonesia,Jakarta,RD-0163,Jl. Segment 163,Jalan Tol,Mangga Dua,-6.209716,106.916137,18949,8,80
+Indonesia,Jakarta,RD-0122,Jl. Segment 122,Jalan Kolektor,Pluit,-6.113802,106.866518,4232,4,50
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,22988,8,120
+Indonesia,Jakarta,RD-0109,Jl. Segment 109,Jalan Kolektor,PIK,-6.273665,106.951304,1690,2,50
+Indonesia,Jakarta,RD-0077,Jl. Segment 77,Jalan Tol,Sudirman,-6.257631,106.942792,8433,4,100
+Indonesia,Jakarta,RD-0091,Jl. Segment 91,Jalan Lingkungan,PIK,-6.204771,106.895442,556,1,40
+Indonesia,Jakarta,RD-0054,Jl. Segment 54,Jalan Lingkungan,Menteng,-6.248266,106.944855,1206,1,40
+Indonesia,Jakarta,RD-0003,Jl. Segment 3,Jalan Lokal,Tangerang,-6.267631,106.814963,1216,2,40
+Indonesia,Jakarta,RD-0024,Jl. Segment 24,Jalan Tol,Menteng,-6.106264,106.860745,20356,8,100
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4419,2,50
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,7597,4,120
+Indonesia,Jakarta,RD-0119,Jl. Segment 119,Jalan Lokal,Grogol,-6.239041,106.856741,754,1,20
+Indonesia,Jakarta,RD-0111,Jl. Segment 111,Jalan Lokal,Mangga Dua,-6.318615,106.834884,894,1,40
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,6071,4,100
+Indonesia,Jakarta,RD-0112,Jl. Segment 112,Jalan Lingkungan,Kuningan,-6.183708,106.924539,909,1,20
+Indonesia,Jakarta,RD-0009,Jl. Segment 9,Jalan Tol,Kelapa Gading,-6.303765,106.787068,13840,8,80
+Indonesia,Jakarta,RD-0191,Jl. Segment 191,Jalan Lokal,Sudirman,-6.255355,106.929019,819,1,30
+Indonesia,Jakarta,RD-0045,Jl. Segment 45,Jalan Lokal,Sudirman,-6.24985,106.960055,2395,2,40
+Indonesia,Jakarta,RD-0030,Jl. Segment 30,Jalan Lokal,Sunter,-6.340319,106.750998,960,2,30
+Indonesia,Jakarta,RD-0054,Jl. Segment 54,Jalan Lingkungan,Menteng,-6.248266,106.944855,1352,1,40
+Indonesia,Jakarta,RD-0149,Jl. Segment 149,Jalan Arteri,Cakung,-6.265907,106.846878,10100,6,50
+Indonesia,Jakarta,RD-0117,Jl. Segment 117,Jalan Tol,Senayan,-6.298834,106.97801,11892,8,120
+Indonesia,Jakarta,RD-0055,Jl. Segment 55,Jalan Lokal,PIK,-6.158559,106.964674,482,1,30
+Indonesia,Jakarta,RD-0195,Jl. Segment 195,Jalan Tol,Kelapa Gading,-6.114807,106.862922,11394,4,100
+Indonesia,Jakarta,RD-0066,Jl. Segment 66,Jalan Lingkungan,Senen,-6.2594,106.913179,982,2,30
+Indonesia,Jakarta,RD-0148,Jl. Segment 148,Jalan Tol,Menteng,-6.107267,106.727882,5315,4,80
+Indonesia,Jakarta,RD-0184,Jl. Segment 184,Jalan Tol,Sudirman,-6.17926,106.705141,13611,8,120
+Indonesia,Jakarta,RD-0096,Jl. Segment 96,Jalan Arteri,Senen,-6.251275,106.7402,5551,4,60
+Indonesia,Jakarta,RD-0149,Jl. Segment 149,Jalan Arteri,Cakung,-6.265907,106.846878,11052,6,50
+Indonesia,Jakarta,RD-0049,Jl. Segment 49,Jalan Arteri,PIK,-6.104959,106.888168,4841,6,50
+Indonesia,Jakarta,RD-0118,Jl. Segment 118,Jalan Tol,Menteng,-6.177667,106.941969,19308,8,100
+Indonesia,Jakarta,RD-0152,Jl. Segment 152,Jalan Kolektor,Grogol,-6.267833,106.747978,2892,2,50
+Indonesia,Jakarta,RD-0020,Jl. Segment 20,Jalan Arteri,Mangga Dua,-6.257387,106.867806,4297,4,60
+Indonesia,Jakarta,RD-0041,Jl. Segment 41,Jalan Lingkungan,Depok,-6.103,106.968562,1634,2,30
+Indonesia,Jakarta,RD-0079,Jl. Segment 79,Jalan Kolektor,PIK,-6.150981,106.899315,2296,2,60
+Indonesia,Jakarta,RD-0078,Jl. Segment 78,Jalan Tol,Slipi,-6.178469,106.773248,25971,8,100
+Indonesia,Jakarta,RD-0178,Jl. Segment 178,Jalan Lokal,Sudirman,-6.247374,106.87421,1603,2,20
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,6371,4,100
+Indonesia,Jakarta,RD-0133,Jl. Segment 133,Jalan Arteri,Senen,-6.17707,106.779685,11696,6,60
+Indonesia,Jakarta,RD-0020,Jl. Segment 20,Jalan Arteri,Mangga Dua,-6.257387,106.867806,5130,4,60
+Indonesia,Jakarta,RD-0186,Jl. Segment 186,Jalan Lokal,Kemang,-6.206924,106.99838,753,1,30
+Indonesia,Jakarta,RD-0144,Jl. Segment 144,Jalan Arteri,Kemang,-6.27231,106.761228,8656,4,60
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,737,1,40
+Indonesia,Jakarta,RD-0166,Jl. Segment 166,Jalan Lingkungan,Grogol,-6.28512,106.733146,580,1,40
+Indonesia,Jakarta,RD-0031,Jl. Segment 31,Jalan Kolektor,Bekasi,-6.302765,106.825749,5307,4,60
+Indonesia,Jakarta,RD-0183,Jl. Segment 183,Jalan Arteri,Menteng,-6.289674,106.903684,10098,4,60
+Indonesia,Jakarta,RD-0183,Jl. Segment 183,Jalan Arteri,Menteng,-6.289674,106.903684,8672,4,60
+Indonesia,Jakarta,RD-0114,Jl. Segment 114,Jalan Lingkungan,Bekasi,-6.230329,106.87947,1351,2,40
+Indonesia,Jakarta,RD-0128,Jl. Segment 128,Jalan Lingkungan,PIK,-6.34636,106.780884,1248,2,40
+Indonesia,Jakarta,RD-0030,Jl. Segment 30,Jalan Lokal,Sunter,-6.340319,106.750998,1088,2,30
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,6423,4,100
+Indonesia,Jakarta,RD-0030,Jl. Segment 30,Jalan Lokal,Sunter,-6.340319,106.750998,1262,2,30
+Indonesia,Jakarta,RD-0003,Jl. Segment 3,Jalan Lokal,Tangerang,-6.267631,106.814963,1084,2,40
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,23444,8,120
+Indonesia,Jakarta,RD-0070,Jl. Segment 70,Jalan Kolektor,Depok,-6.174122,106.991179,4042,4,50
+Indonesia,Jakarta,RD-0006,Jl. Segment 6,Jalan Lingkungan,Senayan,-6.210781,106.96127,474,1,40
+Indonesia,Jakarta,RD-0200,Jl. Segment 200,Jalan Tol,Kemang,-6.174337,106.778904,15376,8,80
+Indonesia,Jakarta,RD-0137,Jl. Segment 137,Jalan Lingkungan,Bekasi,-6.240589,106.743749,596,1,40
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,681,1,40
+Indonesia,Jakarta,RD-0171,Jl. Segment 171,Jalan Lokal,Kuningan,-6.159676,106.925389,1763,2,40
+Indonesia,Jakarta,RD-0096,Jl. Segment 96,Jalan Arteri,Senen,-6.251275,106.7402,5603,4,60
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,7789,4,60
+Indonesia,Jakarta,RD-0058,Jl. Segment 58,Jalan Lokal,Pluit,-6.133348,106.85001,749,1,40
+Indonesia,Jakarta,RD-0145,Jl. Segment 145,Jalan Kolektor,Cakung,-6.115097,106.977685,1779,2,50
+Indonesia,Jakarta,RD-0148,Jl. Segment 148,Jalan Tol,Menteng,-6.107267,106.727882,5509,4,80
+Indonesia,Jakarta,RD-0008,Jl. Segment 8,Jalan Lokal,PIK,-6.18944,106.825046,1030,2,30
+Indonesia,Jakarta,RD-0112,Jl. Segment 112,Jalan Lingkungan,Kuningan,-6.183708,106.924539,763,1,20
+Indonesia,Jakarta,RD-0049,Jl. Segment 49,Jalan Arteri,PIK,-6.104959,106.888168,6185,6,50
+Indonesia,Jakarta,RD-0021,Jl. Segment 21,Jalan Kolektor,Cibubur,-6.284543,106.774239,3352,2,50
+Indonesia,Jakarta,RD-0168,Jl. Segment 168,Jalan Lingkungan,Blok M,-6.176148,106.869758,2872,2,20
+Indonesia,Jakarta,RD-0072,Jl. Segment 72,Jalan Arteri,Menteng,-6.274204,106.980918,11155,4,80
+Indonesia,Jakarta,RD-0076,Jl. Segment 76,Jalan Lingkungan,Sudirman,-6.250253,106.967498,700,1,20
+Indonesia,Jakarta,RD-0018,Jl. Segment 18,Jalan Lokal,Depok,-6.155299,106.704811,1404,2,40
+Indonesia,Jakarta,RD-0068,Jl. Segment 68,Jalan Kolektor,Cibubur,-6.294868,106.911435,2258,2,50
+Indonesia,Jakarta,RD-0177,Jl. Segment 177,Jalan Tol,Sunter,-6.237757,106.778588,5350,4,100
+Indonesia,Jakarta,RD-0040,Jl. Segment 40,Jalan Arteri,Senen,-6.31123,106.808039,3944,4,50
+Indonesia,Jakarta,RD-0120,Jl. Segment 120,Jalan Kolektor,Kuningan,-6.344264,106.916692,3085,2,50
+Indonesia,Jakarta,RD-0060,Jl. Segment 60,Jalan Lingkungan,Kelapa Gading,-6.341224,106.83104,1420,2,30
+Indonesia,Jakarta,RD-0102,Jl. Segment 102,Jalan Lingkungan,Depok,-6.148128,106.978344,1443,2,40
+Indonesia,Jakarta,RD-0159,Jl. Segment 159,Jalan Kolektor,Senen,-6.255875,106.993378,9412,4,50
+Indonesia,Jakarta,RD-0066,Jl. Segment 66,Jalan Lingkungan,Senen,-6.2594,106.913179,1035,2,30
+Indonesia,Jakarta,RD-0160,Jl. Segment 160,Jalan Tol,Senayan,-6.247096,106.782557,6960,4,100
+Indonesia,Jakarta,RD-0198,Jl. Segment 198,Jalan Lingkungan,Blok M,-6.342497,106.74193,1394,2,20
+Indonesia,Jakarta,RD-0116,Jl. Segment 116,Jalan Kolektor,Kuningan,-6.141396,106.887696,4678,4,50
+Indonesia,Jakarta,RD-0157,Jl. Segment 157,Jalan Lingkungan,Blok M,-6.332067,106.899775,947,1,40
+Indonesia,Jakarta,RD-0092,Jl. Segment 92,Jalan Kolektor,Kemang,-6.104212,106.830264,3165,2,50
+Indonesia,Jakarta,RD-0068,Jl. Segment 68,Jalan Kolektor,Cibubur,-6.294868,106.911435,1978,2,50
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,25979,8,120
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1702,2,30
+Indonesia,Jakarta,RD-0138,Jl. Segment 138,Jalan Arteri,Senen,-6.340068,106.862903,7601,4,80
+Indonesia,Jakarta,RD-0111,Jl. Segment 111,Jalan Lokal,Mangga Dua,-6.318615,106.834884,805,1,40
+Indonesia,Jakarta,RD-0087,Jl. Segment 87,Jalan Lokal,Sudirman,-6.29308,106.848848,728,1,40
+Indonesia,Jakarta,RD-0114,Jl. Segment 114,Jalan Lingkungan,Bekasi,-6.230329,106.87947,1277,2,40
+Indonesia,Jakarta,RD-0168,Jl. Segment 168,Jalan Lingkungan,Blok M,-6.176148,106.869758,2621,2,20
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4281,2,50
+Indonesia,Jakarta,RD-0028,Jl. Segment 28,Jalan Kolektor,Mangga Dua,-6.157486,106.795632,3706,4,50
+Indonesia,Jakarta,RD-0186,Jl. Segment 186,Jalan Lokal,Kemang,-6.206924,106.99838,759,1,30
+Indonesia,Jakarta,RD-0183,Jl. Segment 183,Jalan Arteri,Menteng,-6.289674,106.903684,9053,4,60
+Indonesia,Jakarta,RD-0111,Jl. Segment 111,Jalan Lokal,Mangga Dua,-6.318615,106.834884,877,1,40
+Indonesia,Jakarta,RD-0100,Jl. Segment 100,Jalan Kolektor,Menteng,-6.118532,106.874538,8706,4,50
+Indonesia,Jakarta,RD-0187,Jl. Segment 187,Jalan Tol,Mangga Dua,-6.328391,106.838454,8236,4,100
+Indonesia,Jakarta,RD-0091,Jl. Segment 91,Jalan Lingkungan,PIK,-6.204771,106.895442,728,1,40
+Indonesia,Jakarta,RD-0072,Jl. Segment 72,Jalan Arteri,Menteng,-6.274204,106.980918,11387,4,80
+Indonesia,Jakarta,RD-0131,Jl. Segment 131,Jalan Kolektor,Depok,-6.102745,106.901649,2987,2,60
+Indonesia,Jakarta,RD-0136,Jl. Segment 136,Jalan Lingkungan,Mangga Dua,-6.278069,106.71538,922,2,20
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,1020,1,30
+Indonesia,Jakarta,RD-0076,Jl. Segment 76,Jalan Lingkungan,Sudirman,-6.250253,106.967498,608,1,20
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,7848,4,60
+Indonesia,Jakarta,RD-0047,Jl. Segment 47,Jalan Kolektor,PIK,-6.253993,106.985657,2454,2,50
+Indonesia,Jakarta,RD-0050,Jl. Segment 50,Jalan Kolektor,Senen,-6.289013,106.84468,9019,4,50
+Indonesia,Jakarta,RD-0131,Jl. Segment 131,Jalan Kolektor,Depok,-6.102745,106.901649,3422,2,60
+Indonesia,Jakarta,RD-0095,Jl. Segment 95,Jalan Lokal,PIK,-6.108713,106.88763,1339,2,40
+Indonesia,Jakarta,RD-0074,Jl. Segment 74,Jalan Tol,Sunter,-6.270629,106.975717,15893,8,80
+Indonesia,Jakarta,RD-0113,Jl. Segment 113,Jalan Lingkungan,Grogol,-6.140164,106.714297,1563,2,30
+Indonesia,Jakarta,RD-0023,Jl. Segment 23,Jalan Arteri,Kuningan,-6.119639,106.708231,7057,4,80
+Indonesia,Jakarta,RD-0089,Jl. Segment 89,Jalan Lokal,PIK,-6.266859,106.896555,605,1,40
+Indonesia,Jakarta,RD-0024,Jl. Segment 24,Jalan Tol,Menteng,-6.106264,106.860745,21869,8,100
+Indonesia,Jakarta,RD-0070,Jl. Segment 70,Jalan Kolektor,Depok,-6.174122,106.991179,3460,4,50
+Indonesia,Jakarta,RD-0041,Jl. Segment 41,Jalan Lingkungan,Depok,-6.103,106.968562,1315,2,30
+Indonesia,Jakarta,RD-0162,Jl. Segment 162,Jalan Lingkungan,Mangga Dua,-6.247404,106.867174,925,1,20
+Indonesia,Jakarta,RD-0094,Jl. Segment 94,Jalan Arteri,Cawang,-6.277778,106.925251,10736,4,60
+Indonesia,Jakarta,RD-0099,Jl. Segment 99,Jalan Arteri,Senen,-6.14518,106.79882,10821,6,80
+Indonesia,Jakarta,RD-0132,Jl. Segment 132,Jalan Tol,Cawang,-6.138842,106.708579,10460,8,100
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1869,2,30
+Indonesia,Jakarta,RD-0119,Jl. Segment 119,Jalan Lokal,Grogol,-6.239041,106.856741,844,1,20
+Indonesia,Jakarta,RD-0039,Jl. Segment 39,Jalan Lokal,Cawang,-6.20822,106.765446,910,1,30
+Indonesia,Jakarta,RD-0174,Jl. Segment 174,Jalan Tol,Slipi,-6.296194,106.855528,8316,4,120
+Indonesia,Jakarta,RD-0126,Jl. Segment 126,Jalan Lingkungan,Menteng,-6.172951,106.764753,943,2,20
+Indonesia,Jakarta,RD-0129,Jl. Segment 129,Jalan Tol,Cibubur,-6.148763,106.732101,12362,8,100
+Indonesia,Jakarta,RD-0070,Jl. Segment 70,Jalan Kolektor,Depok,-6.174122,106.991179,3428,4,50
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,7540,4,120
+Indonesia,Jakarta,RD-0148,Jl. Segment 148,Jalan Tol,Menteng,-6.107267,106.727882,6599,4,80
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,6269,4,120
+Indonesia,Jakarta,RD-0157,Jl. Segment 157,Jalan Lingkungan,Blok M,-6.332067,106.899775,1098,1,40
+Indonesia,Jakarta,RD-0011,Jl. Segment 11,Jalan Lokal,Menteng,-6.229897,106.715647,606,1,20
+Indonesia,Jakarta,RD-0032,Jl. Segment 32,Jalan Tol,Blok M,-6.295865,106.703131,5405,4,120
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,9517,4,60
+Indonesia,Jakarta,RD-0013,Jl. Segment 13,Jalan Tol,Blok M,-6.335083,106.788392,12394,8,120
+Indonesia,Jakarta,RD-0194,Jl. Segment 194,Jalan Arteri,Mangga Dua,-6.223036,106.759054,19323,6,80
+Indonesia,Jakarta,RD-0061,Jl. Segment 61,Jalan Lokal,Kuningan,-6.119442,106.741716,714,1,40
+Indonesia,Jakarta,RD-0098,Jl. Segment 98,Jalan Lingkungan,Senayan,-6.336696,106.99309,1087,1,30
+Indonesia,Jakarta,RD-0010,Jl. Segment 10,Jalan Lingkungan,PIK,-6.160512,106.968443,727,1,30
+Indonesia,Jakarta,RD-0011,Jl. Segment 11,Jalan Lokal,Menteng,-6.229897,106.715647,618,1,20
+Indonesia,Jakarta,RD-0192,Jl. Segment 192,Jalan Lingkungan,Mangga Dua,-6.203036,106.907293,579,2,40
+Indonesia,Jakarta,RD-0187,Jl. Segment 187,Jalan Tol,Mangga Dua,-6.328391,106.838454,8572,4,100
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,22742,8,120
+Indonesia,Jakarta,RD-0112,Jl. Segment 112,Jalan Lingkungan,Kuningan,-6.183708,106.924539,756,1,20
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,7818,4,60
+Indonesia,Jakarta,RD-0002,Jl. Segment 2,Jalan Arteri,Depok,-6.248396,106.768647,7016,4,80
+Indonesia,Jakarta,RD-0097,Jl. Segment 97,Jalan Tol,Kelapa Gading,-6.227854,106.904691,10472,6,80
+Indonesia,Jakarta,RD-0172,Jl. Segment 172,Jalan Arteri,Bekasi,-6.154833,106.865005,8691,4,50
+Indonesia,Jakarta,RD-0183,Jl. Segment 183,Jalan Arteri,Menteng,-6.289674,106.903684,8782,4,60
+Indonesia,Jakarta,RD-0028,Jl. Segment 28,Jalan Kolektor,Mangga Dua,-6.157486,106.795632,3851,4,50
+Indonesia,Jakarta,RD-0113,Jl. Segment 113,Jalan Lingkungan,Grogol,-6.140164,106.714297,1535,2,30
+Indonesia,Jakarta,RD-0049,Jl. Segment 49,Jalan Arteri,PIK,-6.104959,106.888168,5699,6,50
+Indonesia,Jakarta,RD-0147,Jl. Segment 147,Jalan Tol,Kelapa Gading,-6.199374,106.922984,5827,4,120
+Indonesia,Jakarta,RD-0057,Jl. Segment 57,Jalan Lokal,Kelapa Gading,-6.101649,106.907809,1398,2,20
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4167,2,50
+Indonesia,Jakarta,RD-0141,Jl. Segment 141,Jalan Tol,Senen,-6.267277,106.929729,6180,4,100
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1818,2,30
+Indonesia,Jakarta,RD-0106,Jl. Segment 106,Jalan Lokal,Pluit,-6.298551,106.832264,545,1,30
+Indonesia,Jakarta,RD-0171,Jl. Segment 171,Jalan Lokal,Kuningan,-6.159676,106.925389,1496,2,40
+Indonesia,Jakarta,RD-0194,Jl. Segment 194,Jalan Arteri,Mangga Dua,-6.223036,106.759054,22343,6,80
+Indonesia,Jakarta,RD-0166,Jl. Segment 166,Jalan Lingkungan,Grogol,-6.28512,106.733146,627,1,40
+Indonesia,Jakarta,RD-0084,Jl. Segment 84,Jalan Tol,Cakung,-6.112149,106.862129,9437,6,120
+Indonesia,Jakarta,RD-0127,Jl. Segment 127,Jalan Lokal,Grogol,-6.329858,106.887392,894,1,40
+Indonesia,Jakarta,RD-0198,Jl. Segment 198,Jalan Lingkungan,Blok M,-6.342497,106.74193,1230,2,20
+Indonesia,Jakarta,RD-0152,Jl. Segment 152,Jalan Kolektor,Grogol,-6.267833,106.747978,2566,2,50
+Indonesia,Jakarta,RD-0173,Jl. Segment 173,Jalan Tol,Senen,-6.198667,106.975505,10813,8,100
+Indonesia,Jakarta,RD-0043,Jl. Segment 43,Jalan Arteri,Menteng,-6.208711,106.921881,5624,4,80
+Indonesia,Jakarta,RD-0044,Jl. Segment 44,Jalan Kolektor,Blok M,-6.229034,106.831505,6519,4,50
+Indonesia,Jakarta,RD-0151,Jl. Segment 151,Jalan Lingkungan,Kelapa Gading,-6.345451,106.935468,789,1,40
+Indonesia,Jakarta,RD-0122,Jl. Segment 122,Jalan Kolektor,Pluit,-6.113802,106.866518,4568,4,50
+Indonesia,Jakarta,RD-0108,Jl. Segment 108,Jalan Tol,Depok,-6.200129,106.855835,9635,4,80
+Indonesia,Jakarta,RD-0185,Jl. Segment 185,Jalan Lokal,Slipi,-6.226616,106.802094,630,1,40
+Indonesia,Jakarta,RD-0174,Jl. Segment 174,Jalan Tol,Slipi,-6.296194,106.855528,6603,4,120
+Indonesia,Jakarta,RD-0196,Jl. Segment 196,Jalan Kolektor,Menteng,-6.233388,106.770735,2164,2,60
+Indonesia,Jakarta,RD-0199,Jl. Segment 199,Jalan Kolektor,Cawang,-6.199783,106.954992,7096,4,50
+Indonesia,Jakarta,RD-0011,Jl. Segment 11,Jalan Lokal,Menteng,-6.229897,106.715647,622,1,20
+Indonesia,Jakarta,RD-0011,Jl. Segment 11,Jalan Lokal,Menteng,-6.229897,106.715647,510,1,20
+Indonesia,Jakarta,RD-0117,Jl. Segment 117,Jalan Tol,Senayan,-6.298834,106.97801,10182,8,120
+Indonesia,Jakarta,RD-0037,Jl. Segment 37,Jalan Arteri,Bekasi,-6.237178,106.966539,9462,4,60
+Indonesia,Jakarta,RD-0163,Jl. Segment 163,Jalan Tol,Mangga Dua,-6.209716,106.916137,16795,8,80
+Indonesia,Jakarta,RD-0137,Jl. Segment 137,Jalan Lingkungan,Bekasi,-6.240589,106.743749,463,1,40
+Indonesia,Jakarta,RD-0059,Jl. Segment 59,Jalan Tol,Kelapa Gading,-6.113926,106.836515,5128,4,80
+Indonesia,Jakarta,RD-0200,Jl. Segment 200,Jalan Tol,Kemang,-6.174337,106.778904,15396,8,80
+Indonesia,Jakarta,RD-0167,Jl. Segment 167,Jalan Lingkungan,Bekasi,-6.275343,106.917773,891,2,20
+Indonesia,Jakarta,RD-0003,Jl. Segment 3,Jalan Lokal,Tangerang,-6.267631,106.814963,935,2,40
+Indonesia,Jakarta,RD-0191,Jl. Segment 191,Jalan Lokal,Sudirman,-6.255355,106.929019,837,1,30
+Indonesia,Jakarta,RD-0035,Jl. Segment 35,Jalan Tol,Bekasi,-6.211326,106.908637,12811,6,100
+Indonesia,Jakarta,RD-0050,Jl. Segment 50,Jalan Kolektor,Senen,-6.289013,106.84468,9694,4,50
+Indonesia,Jakarta,RD-0049,Jl. Segment 49,Jalan Arteri,PIK,-6.104959,106.888168,4656,6,50
+Indonesia,Jakarta,RD-0085,Jl. Segment 85,Jalan Tol,Pluit,-6.277312,106.993764,6912,4,80
+Indonesia,Jakarta,RD-0097,Jl. Segment 97,Jalan Tol,Kelapa Gading,-6.227854,106.904691,7940,6,80
+Indonesia,Jakarta,RD-0040,Jl. Segment 40,Jalan Arteri,Senen,-6.31123,106.808039,3343,4,50
+Indonesia,Jakarta,RD-0154,Jl. Segment 154,Jalan Lokal,Cawang,-6.207133,106.919794,2038,2,30
+Indonesia,Jakarta,RD-0096,Jl. Segment 96,Jalan Arteri,Senen,-6.251275,106.7402,5738,4,60
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1859,2,30
+Indonesia,Jakarta,RD-0051,Jl. Segment 51,Jalan Tol,Kelapa Gading,-6.14526,106.981656,9925,4,120
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,29771,8,120
+Indonesia,Jakarta,RD-0084,Jl. Segment 84,Jalan Tol,Cakung,-6.112149,106.862129,10329,6,120
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1626,2,30
+Indonesia,Jakarta,RD-0001,Jl. Segment 1,Jalan Kolektor,PIK,-6.173938,106.920654,12444,4,60
+Indonesia,Jakarta,RD-0092,Jl. Segment 92,Jalan Kolektor,Kemang,-6.104212,106.830264,3812,2,50
+Indonesia,Jakarta,RD-0142,Jl. Segment 142,Jalan Lingkungan,PIK,-6.29715,106.800208,452,1,20
+Indonesia,Jakarta,RD-0092,Jl. Segment 92,Jalan Kolektor,Kemang,-6.104212,106.830264,3602,2,50
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,8599,4,80
+Indonesia,Jakarta,RD-0089,Jl. Segment 89,Jalan Lokal,PIK,-6.266859,106.896555,595,1,40
+Indonesia,Jakarta,RD-0083,Jl. Segment 83,Jalan Lokal,Cakung,-6.306966,106.707473,1616,2,40
+Indonesia,Jakarta,RD-0153,Jl. Segment 153,Jalan Lokal,Cibubur,-6.194738,106.891756,1020,1,30
+Indonesia,Jakarta,RD-0084,Jl. Segment 84,Jalan Tol,Cakung,-6.112149,106.862129,11960,6,120
+Indonesia,Jakarta,RD-0151,Jl. Segment 151,Jalan Lingkungan,Kelapa Gading,-6.345451,106.935468,948,1,40
+Indonesia,Jakarta,RD-0094,Jl. Segment 94,Jalan Arteri,Cawang,-6.277778,106.925251,12270,4,60
+Indonesia,Jakarta,RD-0037,Jl. Segment 37,Jalan Arteri,Bekasi,-6.237178,106.966539,9449,4,60
+Indonesia,Jakarta,RD-0170,Jl. Segment 170,Jalan Lingkungan,Tangerang,-6.24872,106.893966,1047,1,40
+Indonesia,Jakarta,RD-0092,Jl. Segment 92,Jalan Kolektor,Kemang,-6.104212,106.830264,3116,2,50
+Indonesia,Jakarta,RD-0106,Jl. Segment 106,Jalan Lokal,Pluit,-6.298551,106.832264,499,1,30
+Indonesia,Jakarta,RD-0025,Jl. Segment 25,Jalan Kolektor,Tangerang,-6.213941,106.917911,5990,4,50
+Indonesia,Jakarta,RD-0145,Jl. Segment 145,Jalan Kolektor,Cakung,-6.115097,106.977685,1903,2,50
+Indonesia,Jakarta,RD-0105,Jl. Segment 105,Jalan Lokal,Menteng,-6.327645,106.88088,889,1,30
+Indonesia,Jakarta,RD-0021,Jl. Segment 21,Jalan Kolektor,Cibubur,-6.284543,106.774239,3873,2,50
+Indonesia,Jakarta,RD-0034,Jl. Segment 34,Jalan Arteri,Bekasi,-6.307676,106.977854,9359,4,50
+Indonesia,Jakarta,RD-0086,Jl. Segment 86,Jalan Lokal,Senayan,-6.285388,106.723021,1206,2,40
+Indonesia,Jakarta,RD-0044,Jl. Segment 44,Jalan Kolektor,Blok M,-6.229034,106.831505,7244,4,50
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,6561,4,120
+Indonesia,Jakarta,RD-0036,Jl. Segment 36,Jalan Tol,Sunter,-6.195703,106.716284,8263,6,120
+Indonesia,Jakarta,RD-0080,Jl. Segment 80,Jalan Kolektor,Mangga Dua,-6.213804,106.91458,4180,2,50
+Indonesia,Jakarta,RD-0114,Jl. Segment 114,Jalan Lingkungan,Bekasi,-6.230329,106.87947,1374,2,40
+Indonesia,Jakarta,RD-0077,Jl. Segment 77,Jalan Tol,Sudirman,-6.257631,106.942792,7013,4,100
+Indonesia,Jakarta,RD-0062,Jl. Segment 62,Jalan Arteri,Cibubur,-6.199883,106.73594,15320,6,60
+Indonesia,Jakarta,RD-0186,Jl. Segment 186,Jalan Lokal,Kemang,-6.206924,106.99838,776,1,30
+Indonesia,Jakarta,RD-0196,Jl. Segment 196,Jalan Kolektor,Menteng,-6.233388,106.770735,2035,2,60
+Indonesia,Jakarta,RD-0002,Jl. Segment 2,Jalan Arteri,Depok,-6.248396,106.768647,6211,4,80
+Indonesia,Jakarta,RD-0116,Jl. Segment 116,Jalan Kolektor,Kuningan,-6.141396,106.887696,4540,4,50
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,5861,4,100
+Indonesia,Jakarta,RD-0098,Jl. Segment 98,Jalan Lingkungan,Senayan,-6.336696,106.99309,1201,1,30
+Indonesia,Jakarta,RD-0024,Jl. Segment 24,Jalan Tol,Menteng,-6.106264,106.860745,19538,8,100
+Indonesia,Jakarta,RD-0095,Jl. Segment 95,Jalan Lokal,PIK,-6.108713,106.88763,1400,2,40
+Indonesia,Jakarta,RD-0093,Jl. Segment 93,Jalan Lingkungan,Cakung,-6.207902,106.830518,1306,2,40
+Indonesia,Jakarta,RD-0152,Jl. Segment 152,Jalan Kolektor,Grogol,-6.267833,106.747978,2747,2,50
+Indonesia,Jakarta,RD-0185,Jl. Segment 185,Jalan Lokal,Slipi,-6.226616,106.802094,681,1,40
+Indonesia,Jakarta,RD-0102,Jl. Segment 102,Jalan Lingkungan,Depok,-6.148128,106.978344,1519,2,40
+Indonesia,Jakarta,RD-0014,Jl. Segment 14,Jalan Lokal,Kuningan,-6.219377,106.809475,742,1,20
+Indonesia,Jakarta,RD-0130,Jl. Segment 130,Jalan Kolektor,Mangga Dua,-6.149785,106.76061,3768,4,60
+Indonesia,Jakarta,RD-0089,Jl. Segment 89,Jalan Lokal,PIK,-6.266859,106.896555,467,1,40
+Indonesia,Jakarta,RD-0061,Jl. Segment 61,Jalan Lokal,Kuningan,-6.119442,106.741716,881,1,40
+Indonesia,Jakarta,RD-0151,Jl. Segment 151,Jalan Lingkungan,Kelapa Gading,-6.345451,106.935468,924,1,40
+Indonesia,Jakarta,RD-0047,Jl. Segment 47,Jalan Kolektor,PIK,-6.253993,106.985657,2597,2,50
+Indonesia,Jakarta,RD-0030,Jl. Segment 30,Jalan Lokal,Sunter,-6.340319,106.750998,1167,2,30
+Indonesia,Jakarta,RD-0017,Jl. Segment 17,Jalan Lingkungan,Sunter,-6.131182,106.871686,1808,2,30
+Indonesia,Jakarta,RD-0116,Jl. Segment 116,Jalan Kolektor,Kuningan,-6.141396,106.887696,4693,4,50
+Indonesia,Jakarta,RD-0001,Jl. Segment 1,Jalan Kolektor,PIK,-6.173938,106.920654,11978,4,60
+Indonesia,Jakarta,RD-0110,Jl. Segment 110,Jalan Kolektor,Blok M,-6.237822,106.813328,1701,2,40
+Indonesia,Jakarta,RD-0086,Jl. Segment 86,Jalan Lokal,Senayan,-6.285388,106.723021,1170,2,40
+Indonesia,Jakarta,RD-0029,Jl. Segment 29,Jalan Tol,Cibubur,-6.20808,106.805432,26943,8,120
+Indonesia,Jakarta,RD-0074,Jl. Segment 74,Jalan Tol,Sunter,-6.270629,106.975717,18165,8,80
+Indonesia,Jakarta,RD-0074,Jl. Segment 74,Jalan Tol,Sunter,-6.270629,106.975717,15702,8,80
+Indonesia,Jakarta,RD-0133,Jl. Segment 133,Jalan Arteri,Senen,-6.17707,106.779685,11834,6,60
+Indonesia,Jakarta,RD-0106,Jl. Segment 106,Jalan Lokal,Pluit,-6.298551,106.832264,492,1,30
+Indonesia,Jakarta,RD-0103,Jl. Segment 103,Jalan Kolektor,Menteng,-6.260284,106.793636,2346,2,40
+Indonesia,Jakarta,RD-0022,Jl. Segment 22,Jalan Tol,Blok M,-6.328966,106.707738,6179,4,120
+Indonesia,Jakarta,RD-0101,Jl. Segment 101,Jalan Tol,Bekasi,-6.10603,106.90587,12165,6,80
+Indonesia,Jakarta,RD-0042,Jl. Segment 42,Jalan Arteri,Sudirman,-6.343794,106.894,8662,4,60
+Indonesia,Jakarta,RD-0169,Jl. Segment 169,Jalan Lingkungan,Cibubur,-6.164967,106.861978,1606,2,40
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,10377,4,80
+Indonesia,Jakarta,RD-0124,Jl. Segment 124,Jalan Kolektor,Sudirman,-6.148069,106.991064,4554,4,60
+Indonesia,Jakarta,RD-0101,Jl. Segment 101,Jalan Tol,Bekasi,-6.10603,106.90587,11864,6,80
+Indonesia,Jakarta,RD-0161,Jl. Segment 161,Jalan Lingkungan,Mangga Dua,-6.178676,106.759649,464,1,40
+Indonesia,Jakarta,RD-0129,Jl. Segment 129,Jalan Tol,Cibubur,-6.148763,106.732101,15130,8,100
+Indonesia,Jakarta,RD-0040,Jl. Segment 40,Jalan Arteri,Senen,-6.31123,106.808039,3758,4,50
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,8504,4,80
+Indonesia,Jakarta,RD-0143,Jl. Segment 143,Jalan Tol,Tangerang,-6.102091,106.754647,12776,6,100
+Indonesia,Jakarta,RD-0157,Jl. Segment 157,Jalan Lingkungan,Blok M,-6.332067,106.899775,1119,1,40
+Indonesia,Jakarta,RD-0046,Jl. Segment 46,Jalan Kolektor,Grogol,-6.306051,106.807472,1562,2,50
+Indonesia,Jakarta,RD-0061,Jl. Segment 61,Jalan Lokal,Kuningan,-6.119442,106.741716,783,1,40
+Indonesia,Jakarta,RD-0043,Jl. Segment 43,Jalan Arteri,Menteng,-6.208711,106.921881,5183,4,80
+Indonesia,Jakarta,RD-0155,Jl. Segment 155,Jalan Lingkungan,Senen,-6.295214,106.808284,356,1,20
+Indonesia,Jakarta,RD-0143,Jl. Segment 143,Jalan Tol,Tangerang,-6.102091,106.754647,11503,6,100
+Indonesia,Jakarta,RD-0193,Jl. Segment 193,Jalan Kolektor,Tangerang,-6.152353,106.802273,4430,4,60
+Indonesia,Jakarta,RD-0189,Jl. Segment 189,Jalan Tol,Senen,-6.170515,106.801495,8762,6,100
+Indonesia,Jakarta,RD-0161,Jl. Segment 161,Jalan Lingkungan,Mangga Dua,-6.178676,106.759649,451,1,40
+Indonesia,Jakarta,RD-0192,Jl. Segment 192,Jalan Lingkungan,Mangga Dua,-6.203036,106.907293,677,2,40
+Indonesia,Jakarta,RD-0086,Jl. Segment 86,Jalan Lokal,Senayan,-6.285388,106.723021,1160,2,40
+Indonesia,Jakarta,RD-0088,Jl. Segment 88,Jalan Arteri,Cibubur,-6.195809,106.784934,8237,4,80
+Indonesia,Jakarta,RD-0135,Jl. Segment 135,Jalan Tol,Senayan,-6.233788,106.838651,14300,8,80
+Indonesia,Jakarta,RD-0110,Jl. Segment 110,Jalan Kolektor,Blok M,-6.237822,106.813328,1452,2,40
+Indonesia,Jakarta,RD-0039,Jl. Segment 39,Jalan Lokal,Cawang,-6.20822,106.765446,842,1,30
+Indonesia,Jakarta,RD-0138,Jl. Segment 138,Jalan Arteri,Senen,-6.340068,106.862903,6882,4,80
+Indonesia,Jakarta,RD-0038,Jl. Segment 38,Jalan Tol,Slipi,-6.255654,106.865781,6825,4,100
+Indonesia,Jakarta,RD-0163,Jl. Segment 163,Jalan Tol,Mangga Dua,-6.209716,106.916137,21541,8,80
+Indonesia,Jakarta,RD-0174,Jl. Segment 174,Jalan Tol,Slipi,-6.296194,106.855528,6978,4,120
+Indonesia,Jakarta,RD-0079,Jl. Segment 79,Jalan Kolektor,PIK,-6.150981,106.899315,2913,2,60
+Indonesia,Jakarta,RD-0079,Jl. Segment 79,Jalan Kolektor,PIK,-6.150981,106.899315,2413,2,60
+Indonesia,Jakarta,RD-0061,Jl. Segment 61,Jalan Lokal,Kuningan,-6.119442,106.741716,807,1,40
+Indonesia,Jakarta,RD-0025,Jl. Segment 25,Jalan Kolektor,Tangerang,-6.213941,106.917911,5130,4,50
+Indonesia,Jakarta,RD-0197,Jl. Segment 197,Jalan Arteri,Cibubur,-6.227477,106.949193,6392,6,60
+Indonesia,Jakarta,RD-0104,Jl. Segment 104,Jalan Kolektor,Depok,-6.197976,106.951912,3336,4,60
+Indonesia,Jakarta,RD-0134,Jl. Segment 134,Jalan Tol,Mangga Dua,-6.153774,106.934111,20150,8,100

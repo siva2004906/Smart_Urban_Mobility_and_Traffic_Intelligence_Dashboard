@@ -1,0 +1,501 @@
+timestamp,date,time,route,latitude,longitude,district,weather_type,temperature_c,precipitation_mm,visibility_km,congestion_level,vehicle_count,average_speed_kmh
+2024-01-01 03:00:00,2024-01-01,03:00,Jl. Alternatif Cibubur - Depok,-6.17444,106.922457,PIK,Berawan,26.5,1.2,13.3,Low,9,80.0
+2024-01-01 12:30:00,2024-01-01,12:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Cerah Berawan,26.8,-0.7,13.8,Medium,37,32.5
+2024-01-02 02:30:00,2024-01-02,02:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Cerah Berawan,23.9,-0.2,5.2,Low,17,80.0
+2024-01-02 02:30:00,2024-01-02,02:30,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Cerah Berawan,23.9,-0.2,5.2,Low,14,80.0
+2024-01-02 11:00:00,2024-01-02,11:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Cerah Berawan,23.6,0.4,5.6,Low,69,49.4
+2024-01-02 22:00:00,2024-01-02,22:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Berawan,27.4,-0.0,11.3,Low,19,80.0
+2024-01-03 03:30:00,2024-01-03,03:30,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Sedang,26.0,16.9,1.2,Low,8,73.1
+2024-01-03 07:00:00,2024-01-03,07:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Lebat,25.5,29.6,1.5,Medium,42,31.9
+2024-01-03 19:30:00,2024-01-03,19:30,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Cerah Berawan,21.3,-0.7,5.4,Medium,118,14.0
+2024-01-03 21:00:00,2024-01-03,21:00,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Hujan Ringan,20.5,3.6,6.0,Low,51,73.4
+2024-01-03 21:30:00,2024-01-03,21:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Ringan,20.5,3.6,6.0,Low,49,80.0
+2024-01-04 17:00:00,2024-01-04,17:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Ringan,22.3,7.3,6.3,Medium,131,30.8
+2024-01-04 21:00:00,2024-01-04,21:00,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Hujan Sedang,23.4,18.9,1.0,Low,14,35.3
+2024-01-04 23:00:00,2024-01-04,23:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Ringan,21.8,3.1,5.0,Low,26,80.0
+2024-01-05 00:30:00,2024-01-05,00:30,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Berawan,24.4,-1.1,10.3,Low,18,80.0
+2024-01-05 16:30:00,2024-01-05,16:30,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Badai Petir,23.7,25.6,3.6,Medium,54,50.2
+2024-01-05 19:00:00,2024-01-05,19:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Badai Petir,24.6,22.7,2.1,Medium,77,36.0
+2024-01-05 22:00:00,2024-01-05,22:00,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Cerah Berawan,21.5,1.4,8.1,Low,19,38.0
+2024-01-05 23:00:00,2024-01-05,23:00,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Berawan,23.1,-1.1,3.6,Low,3,80.0
+2024-01-06 00:00:00,2024-01-06,00:00,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Hujan Sedang,22.3,19.4,2.6,Low,16,80.0
+2024-01-06 00:30:00,2024-01-06,00:30,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Hujan Sedang,22.3,19.4,2.6,Low,10,80.0
+2024-01-06 04:30:00,2024-01-06,04:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Ringan,27.4,6.5,6.8,Low,11,80.0
+2024-01-06 05:30:00,2024-01-06,05:30,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Badai Petir,25.2,22.5,1.0,Low,1,80.0
+2024-01-06 10:00:00,2024-01-06,10:00,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Berawan,27.1,1.7,5.7,Medium,29,53.9
+2024-01-06 14:30:00,2024-01-06,14:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Badai Petir,23.8,26.3,2.5,Low,30,70.1
+2024-01-06 20:00:00,2024-01-06,20:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Berawan,25.5,0.4,3.2,Medium,56,58.9
+2024-01-06 23:00:00,2024-01-06,23:00,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Ringan,26.0,-0.6,6.7,Low,19,80.0
+2024-01-07 06:00:00,2024-01-07,06:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Ringan,29.8,3.2,6.2,Low,7,80.0
+2024-01-07 14:00:00,2024-01-07,14:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Hujan Ringan,21.9,4.4,4.7,Low,78,67.7
+2024-01-07 14:30:00,2024-01-07,14:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Ringan,21.9,4.4,4.7,Low,63,21.8
+2024-01-08 02:00:00,2024-01-08,02:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Ringan,26.1,2.6,5.6,Low,9,80.0
+2024-01-08 04:00:00,2024-01-08,04:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Berawan,22.3,0.2,9.6,Low,24,80.0
+2024-01-08 06:30:00,2024-01-08,06:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Berawan,26.1,-1.5,12.4,Low,13,80.0
+2024-01-08 07:00:00,2024-01-08,07:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Lebat,27.6,22.3,0.3,Medium,106,12.1
+2024-01-08 07:00:00,2024-01-08,07:00,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Hujan Lebat,27.6,22.3,0.3,Medium,64,24.5
+2024-01-08 09:30:00,2024-01-08,09:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Berawan,30.3,0.8,11.4,Medium,64,16.5
+2024-01-08 10:00:00,2024-01-08,10:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Cerah Berawan,25.3,0.4,9.8,Low,57,45.8
+2024-01-08 11:30:00,2024-01-08,11:30,Jl. Pondok Indah - Pondok Pinang,-6.342138,106.750299,Blok M,Cerah Berawan,25.9,-0.9,8.8,Low,34,34.5
+2024-01-08 13:30:00,2024-01-08,13:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Hujan Ringan,27.2,6.7,8.0,Medium,35,44.9
+2024-01-08 16:30:00,2024-01-08,16:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Ringan,25.0,1.7,4.4,Low,19,32.1
+2024-01-08 18:30:00,2024-01-08,18:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Berawan,26.2,-1.3,4.5,Medium,113,13.8
+2024-01-08 20:00:00,2024-01-08,20:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Badai Petir,24.6,27.7,2.6,Low,30,80.0
+2024-01-08 23:30:00,2024-01-08,23:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Lebat,27.6,28.2,3.1,Low,10,80.0
+2024-01-09 04:00:00,2024-01-09,04:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Cerah Berawan,23.7,-0.4,8.4,Low,5,80.0
+2024-01-09 08:00:00,2024-01-09,08:00,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Hujan Sedang,26.9,19.5,0.7,Medium,70,29.4
+2024-01-09 18:30:00,2024-01-09,18:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Cerah Berawan,23.0,-0.7,5.6,Medium,123,34.1
+2024-01-09 21:00:00,2024-01-09,21:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Kabut,23.6,1.0,2.1,Low,26,64.5
+2024-01-09 23:30:00,2024-01-09,23:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Hujan Lebat,23.1,20.7,1.5,Low,30,67.3
+2024-01-10 00:00:00,2024-01-10,00:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Hujan Ringan,21.2,7.2,6.9,Low,6,80.0
+2024-01-10 04:30:00,2024-01-10,04:30,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Sedang,22.4,16.2,2.1,Low,13,71.3
+2024-01-10 05:30:00,2024-01-10,05:30,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Cerah Berawan,21.3,-1.8,6.5,Low,9,77.9
+2024-01-10 08:30:00,2024-01-10,08:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Badai Petir,29.4,26.1,2.1,Medium,93,18.2
+2024-01-10 12:00:00,2024-01-10,12:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Kabut,22.6,1.1,3.0,Low,35,74.7
+2024-01-10 15:00:00,2024-01-10,15:00,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Cerah Berawan,26.0,-0.9,14.5,Medium,58,44.7
+2024-01-10 16:30:00,2024-01-10,16:30,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Kabut,24.7,0.5,2.5,Medium,54,79.1
+2024-01-10 17:30:00,2024-01-10,17:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Ringan,22.0,5.5,4.6,Medium,94,23.9
+2024-01-10 19:30:00,2024-01-10,19:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Berawan,27.2,0.2,12.7,Medium,113,24.4
+2024-01-11 02:30:00,2024-01-11,02:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Cerah Berawan,26.4,0.9,3.1,Low,12,80.0
+2024-01-11 09:00:00,2024-01-11,09:00,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Lebat,26.4,20.9,3.3,Medium,61,34.6
+2024-01-11 18:00:00,2024-01-11,18:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Berawan,23.3,1.7,7.1,Medium,80,37.5
+2024-01-11 19:30:00,2024-01-11,19:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Cerah Berawan,23.9,-0.7,8.2,Medium,111,15.8
+2024-01-12 03:00:00,2024-01-12,03:00,Jl. Pondok Indah - Pondok Pinang,-6.342138,106.750299,Blok M,Cerah Berawan,23.8,-1.6,3.0,Low,9,80.0
+2024-01-12 04:00:00,2024-01-12,04:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Berawan,21.7,1.9,7.3,Low,19,80.0
+2024-01-12 11:30:00,2024-01-12,11:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Ringan,25.6,2.8,3.0,Medium,24,33.3
+2024-01-12 16:30:00,2024-01-12,16:30,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Cerah Berawan,26.6,-1.2,13.1,Low,30,39.7
+2024-01-12 17:00:00,2024-01-12,17:00,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Lebat,22.3,28.4,3.4,Medium,136,31.2
+2024-01-13 01:00:00,2024-01-13,01:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Cerah Berawan,22.3,1.5,7.2,Low,16,80.0
+2024-01-13 09:30:00,2024-01-13,09:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Kabut,27.6,-0.4,1.9,Low,13,80.0
+2024-01-13 18:30:00,2024-01-13,18:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Cerah Berawan,23.5,-1.5,11.9,Low,72,55.4
+2024-01-13 19:30:00,2024-01-13,19:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Cerah Berawan,26.4,-0.1,6.9,Medium,31,68.3
+2024-01-13 20:30:00,2024-01-13,20:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Berawan,23.1,-1.9,14.8,Low,40,48.0
+2024-01-13 22:00:00,2024-01-13,22:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Cerah Berawan,20.5,0.6,13.0,Low,27,80.0
+2024-01-13 22:30:00,2024-01-13,22:30,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Cerah Berawan,20.5,0.6,13.0,Low,21,80.0
+2024-01-14 01:00:00,2024-01-14,01:00,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Hujan Lebat,25.5,21.7,2.3,Low,18,80.0
+2024-01-14 02:00:00,2024-01-14,02:00,Jl. Alternatif Cibubur - Depok,-6.17444,106.922457,PIK,Hujan Ringan,21.9,2.9,4.0,Low,7,80.0
+2024-01-14 03:30:00,2024-01-14,03:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Hujan Sedang,24.4,18.6,2.2,Low,6,80.0
+2024-01-14 03:30:00,2024-01-14,03:30,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Hujan Sedang,24.4,18.6,2.2,Low,14,80.0
+2024-01-14 06:00:00,2024-01-14,06:00,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Hujan Sedang,27.0,15.2,1.9,Low,8,80.0
+2024-01-14 13:30:00,2024-01-14,13:30,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Ringan,25.7,10.7,3.1,Medium,41,52.0
+2024-01-14 14:30:00,2024-01-14,14:30,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Hujan Lebat,26.0,29.3,4.4,Medium,49,37.3
+2024-01-14 19:00:00,2024-01-14,19:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Cerah Berawan,22.4,0.8,7.3,Low,26,28.6
+2024-01-14 20:00:00,2024-01-14,20:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Cerah Berawan,23.2,0.9,9.0,Medium,39,64.3
+2024-01-14 20:00:00,2024-01-14,20:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Cerah Berawan,23.2,0.9,9.0,Low,35,30.5
+2024-01-14 23:30:00,2024-01-14,23:30,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Hujan Sedang,26.8,20.4,3.8,Low,15,80.0
+2024-01-15 06:00:00,2024-01-15,06:00,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Hujan Sedang,30.3,15.9,1.6,Low,28,77.8
+2024-01-15 07:00:00,2024-01-15,07:00,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Cerah Berawan,26.3,0.2,7.1,Medium,42,32.0
+2024-01-15 14:00:00,2024-01-15,14:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Hujan Sedang,23.3,18.2,0.1,Low,52,52.7
+2024-01-15 14:00:00,2024-01-15,14:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Hujan Sedang,23.3,18.2,0.1,Low,53,52.1
+2024-01-15 16:00:00,2024-01-15,16:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Hujan Ringan,22.4,5.9,7.4,Low,42,74.3
+2024-01-15 17:00:00,2024-01-15,17:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Ringan,28.1,7.3,6.7,Medium,78,17.6
+2024-01-15 18:00:00,2024-01-15,18:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Lebat,25.3,21.5,3.4,Medium,120,26.9
+2024-01-15 20:00:00,2024-01-15,20:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Sedang,27.1,18.8,2.7,Low,41,80.0
+2024-01-15 20:00:00,2024-01-15,20:00,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Sedang,27.1,18.8,2.7,Low,39,62.1
+2024-01-16 01:00:00,2024-01-16,01:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Cerah Berawan,27.2,0.6,3.9,Low,23,80.0
+2024-01-16 04:00:00,2024-01-16,04:00,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Hujan Lebat,23.7,28.1,1.8,Low,7,80.0
+2024-01-16 09:30:00,2024-01-16,09:30,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Ringan,30.6,3.4,5.6,Medium,63,20.7
+2024-01-16 11:30:00,2024-01-16,11:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,24.0,-1.9,10.6,Low,59,43.8
+2024-01-16 15:30:00,2024-01-16,15:30,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Badai Petir,27.4,29.4,2.2,Low,43,61.9
+2024-01-16 16:30:00,2024-01-16,16:30,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Berawan,25.0,-1.8,10.5,Low,51,65.9
+2024-01-16 17:30:00,2024-01-16,17:30,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Ringan,22.0,6.9,3.1,Medium,78,17.1
+2024-01-16 22:30:00,2024-01-16,22:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Cerah Berawan,22.7,-2.0,10.8,Low,27,73.0
+2024-01-17 03:00:00,2024-01-17,03:00,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Cerah Berawan,24.9,-0.8,6.1,Low,11,80.0
+2024-01-17 04:30:00,2024-01-17,04:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Ringan,27.7,6.5,7.6,Low,22,80.0
+2024-01-17 07:30:00,2024-01-17,07:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Cerah Berawan,31.2,-1.3,6.1,Medium,118,21.7
+2024-01-17 10:00:00,2024-01-17,10:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Cerah Berawan,28.4,-1.3,11.0,Medium,61,57.9
+2024-01-17 10:30:00,2024-01-17,10:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Cerah Berawan,28.4,-1.3,11.0,Low,59,59.8
+2024-01-17 15:30:00,2024-01-17,15:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Lebat,27.0,27.9,2.1,Low,27,36.9
+2024-01-17 21:00:00,2024-01-17,21:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Berawan,27.3,1.0,4.5,Low,28,80.0
+2024-01-17 21:00:00,2024-01-17,21:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Berawan,27.3,1.0,4.5,Low,52,80.0
+2024-01-18 03:00:00,2024-01-18,03:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Cerah Berawan,26.1,-0.8,13.9,Low,18,80.0
+2024-01-18 08:30:00,2024-01-18,08:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Hujan Sedang,29.6,10.0,0.8,Medium,95,29.6
+2024-01-18 10:30:00,2024-01-18,10:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Sedang,25.1,11.4,2.2,Low,48,55.1
+2024-01-18 12:30:00,2024-01-18,12:30,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Cerah Berawan,24.8,1.7,11.1,Low,52,42.3
+2024-01-18 18:00:00,2024-01-18,18:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Sedang,22.8,19.8,1.0,Medium,67,11.9
+2024-01-19 03:30:00,2024-01-19,03:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Berawan,25.8,-0.0,6.5,Low,13,80.0
+2024-01-19 04:00:00,2024-01-19,04:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Ringan,24.6,0.0,4.6,Low,17,80.0
+2024-01-19 04:00:00,2024-01-19,04:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Ringan,24.6,0.0,4.6,Low,20,80.0
+2024-01-19 04:30:00,2024-01-19,04:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Ringan,24.6,0.0,4.6,Low,5,80.0
+2024-01-19 05:30:00,2024-01-19,05:30,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Cerah Berawan,27.9,-0.7,12.3,Low,29,80.0
+2024-01-19 07:00:00,2024-01-19,07:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Cerah Berawan,26.6,-0.0,14.0,Medium,99,23.0
+2024-01-19 14:30:00,2024-01-19,14:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Berawan,24.7,-0.0,6.9,Low,50,62.5
+2024-01-19 18:30:00,2024-01-19,18:30,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Kabut,24.2,1.3,2.6,Medium,112,10.7
+2024-01-19 21:30:00,2024-01-19,21:30,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Sedang,26.7,19.8,1.8,Low,21,48.4
+2024-01-20 01:00:00,2024-01-20,01:00,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Berawan,28.0,-0.8,11.5,Low,17,80.0
+2024-01-20 12:00:00,2024-01-20,12:00,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Sedang,24.5,19.5,2.4,Low,65,22.7
+2024-01-20 16:30:00,2024-01-20,16:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Lebat,28.5,26.0,3.2,Low,43,61.4
+2024-01-20 17:00:00,2024-01-20,17:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Hujan Ringan,21.6,4.3,3.8,Low,66,68.9
+2024-01-20 20:30:00,2024-01-20,20:30,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Cerah Berawan,26.3,1.9,12.1,Low,29,58.8
+2024-01-20 22:30:00,2024-01-20,22:30,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Sedang,23.0,16.8,3.6,Low,0,80.0
+2024-01-21 00:30:00,2024-01-21,00:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Berawan,24.8,-1.0,8.1,Low,8,80.0
+2024-01-21 01:00:00,2024-01-21,01:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Badai Petir,26.4,29.2,2.9,Low,0,80.0
+2024-01-21 01:30:00,2024-01-21,01:30,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Badai Petir,26.4,29.2,2.9,Low,4,80.0
+2024-01-21 07:30:00,2024-01-21,07:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Lebat,25.8,24.4,2.5,Low,15,80.0
+2024-01-21 09:00:00,2024-01-21,09:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Ringan,28.0,3.0,5.6,Low,8,80.0
+2024-01-21 09:30:00,2024-01-21,09:30,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Ringan,28.0,3.0,5.6,Low,21,80.0
+2024-01-21 20:30:00,2024-01-21,20:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Cerah Berawan,24.7,-1.1,9.5,Low,49,44.6
+2024-01-21 20:30:00,2024-01-21,20:30,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Cerah Berawan,24.7,-1.1,9.5,Low,68,36.4
+2024-01-22 02:30:00,2024-01-22,02:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Berawan,24.1,-1.5,13.1,Low,28,80.0
+2024-01-22 06:00:00,2024-01-22,06:00,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Hujan Ringan,27.6,10.4,8.1,Low,21,80.0
+2024-01-22 07:30:00,2024-01-22,07:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Berawan,26.3,0.4,5.1,Medium,53,31.2
+2024-01-22 08:30:00,2024-01-22,08:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Badai Petir,30.4,19.8,4.4,Medium,128,13.1
+2024-01-22 17:30:00,2024-01-22,17:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Lebat,21.9,26.4,2.7,Medium,133,22.2
+2024-01-22 18:00:00,2024-01-22,18:00,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Badai Petir,27.3,26.2,3.9,Medium,69,31.6
+2024-01-22 21:30:00,2024-01-22,21:30,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Hujan Ringan,22.2,3.8,6.9,Low,15,37.5
+2024-01-23 00:30:00,2024-01-23,00:30,Jl. Alternatif Cibubur - Depok,-6.17444,106.922457,PIK,Cerah Berawan,27.2,0.6,8.4,Low,16,80.0
+2024-01-23 11:30:00,2024-01-23,11:30,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Hujan Ringan,28.0,6.5,7.4,Low,26,45.1
+2024-01-23 13:30:00,2024-01-23,13:30,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Cerah Berawan,24.7,-0.1,7.7,Medium,49,64.0
+2024-01-23 13:30:00,2024-01-23,13:30,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Cerah Berawan,24.7,-0.1,7.7,Medium,37,61.8
+2024-01-24 04:00:00,2024-01-24,04:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Hujan Sedang,22.5,18.7,3.4,Low,16,80.0
+2024-01-24 08:00:00,2024-01-24,08:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Cerah Berawan,25.5,-1.2,10.7,Medium,77,11.4
+2024-01-24 11:00:00,2024-01-24,11:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Ringan,27.5,7.5,7.9,Low,46,29.4
+2024-01-24 13:00:00,2024-01-24,13:00,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Badai Petir,26.8,26.4,2.8,Medium,39,43.9
+2024-01-24 17:00:00,2024-01-24,17:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Sedang,22.4,15.1,2.2,Medium,97,20.1
+2024-01-24 18:30:00,2024-01-24,18:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Lebat,24.0,19.4,3.0,Medium,122,23.3
+2024-01-25 01:00:00,2024-01-25,01:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Sedang,24.7,17.9,0.9,Low,14,78.5
+2024-01-25 02:30:00,2024-01-25,02:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Berawan,25.5,0.2,12.0,Low,14,80.0
+2024-01-25 06:30:00,2024-01-25,06:30,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Ringan,30.0,1.8,7.6,Low,26,80.0
+2024-01-25 11:30:00,2024-01-25,11:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Sedang,24.8,16.0,2.8,Medium,37,22.4
+2024-01-25 13:30:00,2024-01-25,13:30,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Hujan Sedang,25.0,20.4,0.7,Low,30,39.7
+2024-01-25 17:30:00,2024-01-25,17:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Berawan,20.4,1.4,10.8,Medium,88,31.5
+2024-01-25 18:00:00,2024-01-25,18:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Badai Petir,23.4,27.8,3.2,Medium,123,21.0
+2024-01-25 18:00:00,2024-01-25,18:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Badai Petir,23.4,27.8,3.2,Medium,91,17.2
+2024-01-25 19:00:00,2024-01-25,19:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Sedang,21.7,18.2,3.2,Medium,56,14.2
+2024-01-25 21:00:00,2024-01-25,21:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Sedang,24.7,14.5,1.8,Low,34,64.0
+2024-01-26 10:00:00,2024-01-26,10:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Hujan Sedang,26.0,16.8,3.6,Low,49,45.6
+2024-01-26 13:00:00,2024-01-26,13:00,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Hujan Sedang,22.7,10.7,1.8,Low,44,29.9
+2024-01-26 18:00:00,2024-01-26,18:00,Jl. Raya Meruya - Kembangan,-6.207135,106.763742,Cakung,Berawan,24.6,1.3,11.3,Medium,99,30.5
+2024-01-26 18:30:00,2024-01-26,18:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Berawan,24.6,1.3,11.3,Medium,64,20.6
+2024-01-26 20:00:00,2024-01-26,20:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Hujan Lebat,22.8,27.2,0.6,Low,32,80.0
+2024-01-27 02:30:00,2024-01-27,02:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Cerah Berawan,25.1,-1.3,12.0,Low,18,80.0
+2024-01-27 03:30:00,2024-01-27,03:30,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Cerah Berawan,24.6,-1.5,7.3,Low,26,80.0
+2024-01-27 15:00:00,2024-01-27,15:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Badai Petir,21.2,22.6,4.1,Medium,43,61.1
+2024-01-27 16:30:00,2024-01-27,16:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Hujan Ringan,26.1,8.6,6.8,Low,34,34.2
+2024-01-27 19:30:00,2024-01-27,19:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Badai Petir,24.6,24.7,0.6,Low,66,34.8
+2024-01-27 20:00:00,2024-01-27,20:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Sedang,22.2,13.9,2.0,Low,36,27.6
+2024-01-28 03:00:00,2024-01-28,03:00,Jl. Pasar Minggu - Lenteng Agung,-6.232437,106.878927,Senayan,Hujan Sedang,25.6,11.4,1.8,Low,22,80.0
+2024-01-28 17:30:00,2024-01-28,17:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Sedang,27.7,8.9,2.2,Low,70,48.5
+2024-01-28 20:30:00,2024-01-28,20:30,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Cerah Berawan,21.4,1.7,8.1,Low,53,33.4
+2024-01-29 13:00:00,2024-01-29,13:00,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Cerah Berawan,27.5,0.5,7.5,Low,29,77.3
+2024-01-29 16:30:00,2024-01-29,16:30,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Cerah Berawan,24.1,1.2,9.5,Low,44,66.1
+2024-01-29 22:00:00,2024-01-29,22:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Hujan Ringan,24.1,6.9,4.9,Low,30,73.7
+2024-01-30 03:30:00,2024-01-30,03:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Cerah Berawan,23.7,-1.6,7.0,Low,28,80.0
+2024-01-30 07:00:00,2024-01-30,07:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Sedang,24.8,19.3,1.0,Medium,96,37.2
+2024-01-30 10:30:00,2024-01-30,10:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Hujan Ringan,26.8,-0.8,6.7,Low,43,57.0
+2024-01-30 11:30:00,2024-01-30,11:30,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Cerah Berawan,25.2,-1.4,13.3,Low,47,27.0
+2024-01-30 16:00:00,2024-01-30,16:00,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Berawan,24.0,0.7,4.1,Low,54,48.8
+2024-01-30 23:00:00,2024-01-30,23:00,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Hujan Lebat,26.9,30.1,2.4,Low,18,80.0
+2024-01-31 07:30:00,2024-01-31,07:30,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Badai Petir,25.7,27.5,1.0,Medium,75,28.7
+2024-01-31 11:30:00,2024-01-31,11:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Lebat,23.5,20.1,0.6,Medium,40,48.8
+2024-01-31 13:30:00,2024-01-31,13:30,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Berawan,22.6,-1.7,10.6,Low,54,25.1
+2024-01-31 15:00:00,2024-01-31,15:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Badai Petir,21.0,25.5,1.6,Low,45,42.9
+2024-02-01 11:00:00,2024-02-01,11:00,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Hujan Sedang,28.4,15.4,4.0,Medium,47,52.4
+2024-02-01 11:00:00,2024-02-01,11:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Sedang,28.4,15.4,4.0,Medium,44,47.1
+2024-02-01 18:00:00,2024-02-01,18:00,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Berawan,24.4,-1.1,10.0,Medium,99,17.1
+2024-02-01 22:30:00,2024-02-01,22:30,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Berawan,23.1,-1.3,5.4,Low,40,80.0
+2024-02-01 23:00:00,2024-02-01,23:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Cerah Berawan,23.3,1.4,13.0,Low,31,80.0
+2024-02-02 07:30:00,2024-02-02,07:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Badai Petir,28.2,22.6,2.2,Medium,79,17.5
+2024-02-02 11:00:00,2024-02-02,11:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Ringan,22.5,3.5,4.0,Low,58,47.2
+2024-02-02 13:00:00,2024-02-02,13:00,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Hujan Ringan,21.3,0.7,4.1,Medium,50,39.8
+2024-02-02 14:30:00,2024-02-02,14:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Ringan,25.9,1.9,5.8,Low,31,36.3
+2024-02-03 00:30:00,2024-02-03,00:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Sedang,23.8,17.2,2.8,Low,23,80.0
+2024-02-03 01:00:00,2024-02-03,01:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Hujan Sedang,27.3,18.2,3.6,Low,3,80.0
+2024-02-03 05:00:00,2024-02-03,05:00,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Cerah Berawan,26.1,0.8,2.8,Low,7,80.0
+2024-02-03 11:30:00,2024-02-03,11:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Hujan Ringan,25.4,5.7,4.8,Low,38,62.6
+2024-02-03 12:30:00,2024-02-03,12:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Berawan,26.1,0.9,9.4,Low,43,41.5
+2024-02-03 16:30:00,2024-02-03,16:30,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Hujan Lebat,22.9,26.3,1.2,Medium,29,42.7
+2024-02-03 23:30:00,2024-02-03,23:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Ringan,21.7,8.8,5.2,Low,21,80.0
+2024-02-04 07:30:00,2024-02-04,07:30,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Berawan,24.6,0.7,7.8,Low,15,80.0
+2024-02-04 11:00:00,2024-02-04,11:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Cerah Berawan,25.0,0.2,8.6,Medium,66,56.6
+2024-02-04 17:00:00,2024-02-04,17:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Sedang,25.0,17.9,3.8,Low,34,25.2
+2024-02-06 23:00:00,2024-02-06,23:00,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Cerah Berawan,23.7,-0.7,9.7,Low,21,80.0
+2024-02-07 01:00:00,2024-02-07,01:00,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Badai Petir,26.0,21.4,1.0,Low,32,80.0
+2024-02-07 06:30:00,2024-02-07,06:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Kabut,30.0,-0.4,2.2,Low,30,80.0
+2024-02-07 11:00:00,2024-02-07,11:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Berawan,22.1,1.4,3.8,Low,54,73.6
+2024-02-07 11:30:00,2024-02-07,11:30,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Berawan,22.1,1.4,3.8,Low,51,38.0
+2024-02-08 07:00:00,2024-02-08,07:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Sedang,28.8,17.2,1.8,Medium,72,40.3
+2024-02-08 10:00:00,2024-02-08,10:00,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Berawan,27.4,0.2,11.7,Medium,55,54.7
+2024-02-08 11:00:00,2024-02-08,11:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Ringan,24.4,2.7,7.8,Low,55,67.9
+2024-02-08 20:00:00,2024-02-08,20:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Hujan Ringan,23.0,5.8,5.0,Low,43,80.0
+2024-02-09 09:00:00,2024-02-09,09:00,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Cerah Berawan,31.8,1.8,8.3,Medium,51,29.8
+2024-02-09 13:00:00,2024-02-09,13:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Badai Petir,22.8,23.2,1.5,Low,63,62.0
+2024-02-09 14:00:00,2024-02-09,14:00,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Berawan,27.3,1.0,12.8,Low,59,27.2
+2024-02-09 14:00:00,2024-02-09,14:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Berawan,27.3,1.0,12.8,Low,37,62.1
+2024-02-09 16:00:00,2024-02-09,16:00,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Cerah Berawan,25.3,-0.9,10.3,Medium,29,64.3
+2024-02-09 17:30:00,2024-02-09,17:30,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Hujan Ringan,21.9,3.5,6.5,Medium,102,24.0
+2024-02-09 20:30:00,2024-02-09,20:30,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Cerah Berawan,28.1,-0.2,6.8,Low,24,60.6
+2024-02-10 00:30:00,2024-02-10,00:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Hujan Lebat,21.9,19.2,2.1,Low,20,80.0
+2024-02-10 01:00:00,2024-02-10,01:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Kabut,24.1,-2.0,2.1,Low,12,80.0
+2024-02-10 01:30:00,2024-02-10,01:30,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Kabut,24.1,-2.0,2.1,Low,20,80.0
+2024-02-10 04:00:00,2024-02-10,04:00,Jl. Raya Bogor - Cibubur,-6.309112,106.979063,Cibubur,Badai Petir,23.6,21.3,2.7,Low,12,80.0
+2024-02-10 06:30:00,2024-02-10,06:30,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Badai Petir,26.5,25.1,2.7,Low,10,80.0
+2024-02-10 13:00:00,2024-02-10,13:00,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Kabut,22.9,-0.9,2.8,Low,26,50.2
+2024-02-10 22:30:00,2024-02-10,22:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Cerah Berawan,21.3,1.1,8.2,Low,9,80.0
+2024-02-11 01:00:00,2024-02-11,01:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Sedang,22.0,14.3,1.3,Low,27,80.0
+2024-02-11 01:30:00,2024-02-11,01:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Hujan Sedang,22.0,14.3,1.3,Low,22,80.0
+2024-02-11 14:00:00,2024-02-11,14:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Hujan Lebat,23.5,28.3,1.5,Medium,32,58.6
+2024-02-12 06:00:00,2024-02-12,06:00,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Hujan Sedang,26.9,16.5,1.7,Low,17,80.0
+2024-02-12 09:30:00,2024-02-12,09:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Lebat,25.2,28.2,3.7,Medium,95,27.2
+2024-02-12 11:30:00,2024-02-12,11:30,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Hujan Lebat,27.4,25.0,3.5,Low,54,34.8
+2024-02-12 13:30:00,2024-02-12,13:30,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Hujan Ringan,22.3,5.0,7.2,Low,51,39.2
+2024-02-12 15:30:00,2024-02-12,15:30,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Sedang,25.8,14.4,3.6,Medium,28,58.9
+2024-02-12 17:00:00,2024-02-12,17:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Hujan Ringan,23.3,6.8,5.9,Medium,90,40.9
+2024-02-12 20:00:00,2024-02-12,20:00,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Cerah Berawan,24.4,-1.0,6.1,Low,18,53.7
+2024-02-13 00:00:00,2024-02-13,00:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Badai Petir,25.0,26.8,0.4,Low,24,80.0
+2024-02-13 01:30:00,2024-02-13,01:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Cerah Berawan,24.0,-1.7,13.0,Low,20,80.0
+2024-02-13 03:30:00,2024-02-13,03:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Badai Petir,21.1,30.0,2.0,Low,24,80.0
+2024-02-13 08:00:00,2024-02-13,08:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Hujan Lebat,26.4,21.9,3.4,Medium,73,26.2
+2024-02-13 13:30:00,2024-02-13,13:30,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Berawan,23.1,0.6,7.0,Medium,48,57.4
+2024-02-13 15:30:00,2024-02-13,15:30,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Cerah Berawan,24.6,1.8,6.7,Low,66,66.5
+2024-02-13 17:00:00,2024-02-13,17:00,Jl. Pasar Minggu - Lenteng Agung,-6.232437,106.878927,Senayan,Cerah Berawan,24.4,1.1,9.0,Medium,72,17.1
+2024-02-13 19:30:00,2024-02-13,19:30,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Cerah Berawan,25.9,-1.5,6.3,Medium,108,32.5
+2024-02-14 07:00:00,2024-02-14,07:00,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Berawan,25.6,1.7,2.8,Medium,114,13.2
+2024-02-14 12:00:00,2024-02-14,12:00,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Berawan,23.3,-0.6,3.6,Low,29,39.7
+2024-02-14 23:30:00,2024-02-14,23:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Sedang,27.2,19.0,3.9,Low,5,80.0
+2024-02-15 04:30:00,2024-02-15,04:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Ringan,23.7,8.3,6.4,Low,10,80.0
+2024-02-15 12:30:00,2024-02-15,12:30,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Ringan,28.2,4.3,4.4,Low,35,62.1
+2024-02-15 21:00:00,2024-02-15,21:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Ringan,26.1,10.0,7.5,Low,34,80.0
+2024-02-15 23:30:00,2024-02-15,23:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,29.5,1.0,9.7,Low,23,80.0
+2024-02-16 09:00:00,2024-02-16,09:00,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Hujan Ringan,29.7,10.3,5.3,Medium,93,29.6
+2024-02-16 15:00:00,2024-02-16,15:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Ringan,22.6,4.1,4.5,Low,49,45.3
+2024-02-16 21:00:00,2024-02-16,21:00,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Cerah Berawan,22.5,1.9,12.9,Low,11,50.0
+2024-02-17 04:00:00,2024-02-17,04:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Berawan,24.8,0.2,13.1,Low,7,80.0
+2024-02-17 06:00:00,2024-02-17,06:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Sedang,27.7,17.1,1.3,Low,17,80.0
+2024-02-17 10:00:00,2024-02-17,10:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Lebat,29.0,21.7,3.4,Low,52,21.1
+2024-02-17 13:00:00,2024-02-17,13:00,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,21.7,1.8,5.3,Low,60,40.5
+2024-02-17 19:00:00,2024-02-17,19:00,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Hujan Lebat,22.2,22.1,1.0,Low,37,31.3
+2024-02-17 20:30:00,2024-02-17,20:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Ringan,25.0,7.1,5.1,Low,51,50.4
+2024-02-18 06:00:00,2024-02-18,06:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Sedang,27.5,15.6,1.4,Low,19,80.0
+2024-02-18 08:30:00,2024-02-18,08:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Cerah Berawan,26.2,0.1,13.6,Low,16,80.0
+2024-02-18 10:00:00,2024-02-18,10:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Cerah Berawan,27.7,1.6,3.4,Medium,22,59.9
+2024-02-18 20:30:00,2024-02-18,20:30,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Hujan Sedang,22.7,17.3,3.7,Medium,36,70.6
+2024-02-19 01:30:00,2024-02-19,01:30,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Hujan Sedang,28.2,9.3,3.7,Low,19,80.0
+2024-02-19 05:30:00,2024-02-19,05:30,Jl. Pasar Minggu - Lenteng Agung,-6.232437,106.878927,Senayan,Hujan Sedang,21.8,19.4,1.7,Low,3,80.0
+2024-02-19 16:00:00,2024-02-19,16:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Ringan,27.7,10.7,8.4,Low,47,68.5
+2024-02-19 22:00:00,2024-02-19,22:00,Jl. Pasar Minggu - Lenteng Agung,-6.232437,106.878927,Senayan,Hujan Lebat,24.2,27.1,2.9,Low,41,80.0
+2024-02-20 08:00:00,2024-02-20,08:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Berawan,25.0,0.1,14.6,Medium,50,31.0
+2024-02-20 11:30:00,2024-02-20,11:30,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Berawan,26.2,-1.7,5.3,Low,43,71.9
+2024-02-20 16:30:00,2024-02-20,16:30,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Ringan,28.7,9.3,6.9,Low,36,24.9
+2024-02-20 23:00:00,2024-02-20,23:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Berawan,27.6,-0.1,10.8,Low,5,80.0
+2024-02-21 05:00:00,2024-02-21,05:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Cerah Berawan,25.0,-0.5,3.1,Low,10,80.0
+2024-02-21 14:30:00,2024-02-21,14:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Berawan,27.9,1.8,13.5,Low,37,51.5
+2024-02-21 15:00:00,2024-02-21,15:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Berawan,25.6,-1.3,14.4,Low,34,66.8
+2024-02-21 17:30:00,2024-02-21,17:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Ringan,22.4,9.9,7.5,Medium,109,15.2
+2024-02-21 20:30:00,2024-02-21,20:30,Jl. Alternatif Cibubur - Depok,-6.17444,106.922457,PIK,Cerah Berawan,21.1,1.8,7.1,Low,38,54.5
+2024-02-22 03:30:00,2024-02-22,03:30,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Hujan Sedang,24.5,19.6,2.5,Low,33,80.0
+2024-02-22 08:00:00,2024-02-22,08:00,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Hujan Ringan,26.3,-0.2,7.4,Medium,82,36.3
+2024-02-22 10:00:00,2024-02-22,10:00,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Cerah Berawan,29.7,-0.3,13.0,Low,32,54.9
+2024-02-22 15:30:00,2024-02-22,15:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Hujan Ringan,22.0,-0.5,6.9,Medium,29,57.2
+2024-02-22 17:30:00,2024-02-22,17:30,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Berawan,21.9,1.4,9.1,Medium,122,32.2
+2024-02-23 02:30:00,2024-02-23,02:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Badai Petir,21.5,28.6,2.9,Low,22,80.0
+2024-02-23 04:00:00,2024-02-23,04:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Badai Petir,22.7,22.6,1.2,Low,4,80.0
+2024-02-23 04:30:00,2024-02-23,04:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Badai Petir,22.7,22.6,1.2,Low,8,80.0
+2024-02-23 05:00:00,2024-02-23,05:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Badai Petir,20.5,28.5,1.3,Low,2,80.0
+2024-02-23 08:30:00,2024-02-23,08:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Cerah Berawan,26.2,-2.0,10.2,Medium,68,15.2
+2024-02-23 10:30:00,2024-02-23,10:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Ringan,26.2,11.1,5.9,Low,40,33.7
+2024-02-23 15:00:00,2024-02-23,15:00,Jl. Alternatif Cibubur - Depok,-6.17444,106.922457,PIK,Hujan Sedang,24.2,13.5,3.3,Low,54,59.5
+2024-02-23 21:30:00,2024-02-23,21:30,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Cerah Berawan,20.1,-0.9,7.1,Low,15,55.9
+2024-02-24 00:00:00,2024-02-24,00:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Badai Petir,24.2,24.6,2.8,Low,15,80.0
+2024-02-24 03:00:00,2024-02-24,03:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Sedang,26.8,18.1,1.7,Low,12,80.0
+2024-02-24 06:00:00,2024-02-24,06:00,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Badai Petir,27.6,30.2,3.6,Low,25,80.0
+2024-02-24 10:30:00,2024-02-24,10:30,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Ringan,29.4,8.4,4.8,Medium,19,41.0
+2024-02-24 13:30:00,2024-02-24,13:30,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Lebat,24.2,25.5,2.5,Low,54,61.0
+2024-02-24 14:30:00,2024-02-24,14:30,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Badai Petir,24.5,22.9,3.1,Medium,47,50.9
+2024-02-25 07:00:00,2024-02-25,07:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Berawan,29.7,1.7,4.3,Low,18,80.0
+2024-02-25 15:30:00,2024-02-25,15:30,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Ringan,24.7,1.8,5.8,Low,34,34.3
+2024-02-25 16:00:00,2024-02-25,16:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Hujan Ringan,28.1,7.0,4.0,Low,55,58.8
+2024-02-25 16:30:00,2024-02-25,16:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Ringan,28.1,7.0,4.0,Low,59,20.5
+2024-02-25 19:30:00,2024-02-25,19:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Ringan,26.2,7.7,6.4,Medium,42,56.2
+2024-02-25 20:30:00,2024-02-25,20:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,25.8,1.3,9.6,Low,41,31.7
+2024-02-25 23:00:00,2024-02-25,23:00,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,28.0,1.3,5.9,Low,15,80.0
+2024-02-26 01:30:00,2024-02-26,01:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Lebat,25.1,24.4,2.1,Low,22,80.0
+2024-02-26 03:00:00,2024-02-26,03:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Berawan,22.8,0.4,10.3,Low,25,75.2
+2024-02-26 07:00:00,2024-02-26,07:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Badai Petir,25.7,27.5,2.7,Medium,103,32.4
+2024-02-26 13:30:00,2024-02-26,13:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Kabut,26.5,-0.6,2.2,Low,59,65.1
+2024-02-26 15:30:00,2024-02-26,15:30,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Cerah Berawan,24.9,0.5,6.9,Low,29,78.5
+2024-02-27 12:00:00,2024-02-27,12:00,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Hujan Ringan,25.0,2.3,5.3,Low,19,50.1
+2024-02-27 14:00:00,2024-02-27,14:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Hujan Sedang,24.8,16.8,3.4,Medium,33,54.3
+2024-02-27 14:30:00,2024-02-27,14:30,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Hujan Sedang,24.8,16.8,3.4,Low,45,48.0
+2024-02-27 17:30:00,2024-02-27,17:30,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Ringan,23.6,8.6,5.7,Medium,118,18.5
+2024-02-27 17:30:00,2024-02-27,17:30,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Ringan,23.6,8.6,5.7,Medium,59,36.5
+2024-02-28 04:00:00,2024-02-28,04:00,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Cerah Berawan,22.3,0.0,10.9,Low,22,80.0
+2024-02-28 08:00:00,2024-02-28,08:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Berawan,30.0,-0.3,8.2,Medium,50,39.3
+2024-02-28 13:30:00,2024-02-28,13:30,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Hujan Ringan,26.4,0.8,3.5,Low,67,44.4
+2024-02-28 23:30:00,2024-02-28,23:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Sedang,25.6,9.6,4.2,Low,2,80.0
+2024-02-29 09:00:00,2024-02-29,09:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Berawan,29.6,-0.5,11.9,Medium,59,30.5
+2024-02-29 13:00:00,2024-02-29,13:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Sedang,23.6,13.5,3.0,Medium,62,37.1
+2024-02-29 17:30:00,2024-02-29,17:30,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Hujan Sedang,21.8,18.3,2.1,Medium,130,23.7
+2024-03-01 00:30:00,2024-03-01,00:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Cerah Berawan,27.4,1.9,15.1,Low,10,80.0
+2024-03-01 01:00:00,2024-03-01,01:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Cerah Berawan,20.8,2.0,3.9,Low,7,80.0
+2024-03-01 17:00:00,2024-03-01,17:00,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Ringan,24.9,9.0,5.3,Medium,126,17.3
+2024-03-01 19:00:00,2024-03-01,19:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Berawan,21.0,-1.4,3.8,Medium,98,26.3
+2024-03-01 21:30:00,2024-03-01,21:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Cerah Berawan,27.5,0.4,5.7,Low,20,68.4
+2024-03-01 23:00:00,2024-03-01,23:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Badai Petir,21.0,28.2,2.5,Low,26,80.0
+2024-03-02 04:30:00,2024-03-02,04:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Berawan,29.1,-0.6,3.1,Low,2,80.0
+2024-03-02 05:00:00,2024-03-02,05:00,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Badai Petir,26.1,27.7,2.6,Low,12,80.0
+2024-03-02 11:00:00,2024-03-02,11:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Berawan,26.0,-0.5,7.0,Medium,50,25.3
+2024-03-02 12:30:00,2024-03-02,12:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Ringan,23.9,4.5,4.1,Medium,29,65.8
+2024-03-02 17:00:00,2024-03-02,17:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Cerah Berawan,24.3,-1.7,8.6,Low,24,28.4
+2024-03-02 20:30:00,2024-03-02,20:30,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Hujan Ringan,28.8,2.6,5.9,Low,29,63.7
+2024-03-03 06:30:00,2024-03-03,06:30,Jl. Kelapa Gading Boulevard,-6.338097,106.915145,Cakung,Cerah Berawan,27.8,0.7,9.4,Low,17,80.0
+2024-03-03 06:30:00,2024-03-03,06:30,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Cerah Berawan,27.8,0.7,9.4,Low,14,80.0
+2024-03-03 18:30:00,2024-03-03,18:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Berawan,23.7,-0.0,11.2,Medium,46,59.4
+2024-03-03 20:00:00,2024-03-03,20:00,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Hujan Ringan,23.1,5.3,7.7,Medium,52,46.3
+2024-03-04 06:30:00,2024-03-04,06:30,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Badai Petir,25.7,30.5,1.7,Low,21,80.0
+2024-03-04 17:30:00,2024-03-04,17:30,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Cerah Berawan,26.4,0.8,4.1,Medium,137,33.6
+2024-03-04 22:30:00,2024-03-04,22:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Hujan Ringan,24.7,9.4,4.3,Low,47,80.0
+2024-03-05 00:00:00,2024-03-05,00:00,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Lebat,24.0,26.9,1.0,Low,21,80.0
+2024-03-05 04:30:00,2024-03-05,04:30,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Ringan,22.3,2.0,5.4,Low,3,80.0
+2024-03-05 06:30:00,2024-03-05,06:30,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Hujan Ringan,27.8,0.2,3.2,Low,18,80.0
+2024-03-05 09:30:00,2024-03-05,09:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Cerah Berawan,26.9,-0.8,8.7,Medium,74,32.9
+2024-03-05 22:30:00,2024-03-05,22:30,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Berawan,25.6,-0.8,8.2,Low,19,80.0
+2024-03-06 17:00:00,2024-03-06,17:00,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Badai Petir,22.6,23.0,2.7,Medium,76,11.7
+2024-03-06 18:30:00,2024-03-06,18:30,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Cerah Berawan,28.8,-0.7,3.6,Medium,99,31.7
+2024-03-06 23:00:00,2024-03-06,23:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Cerah Berawan,23.5,1.5,8.4,Low,20,80.0
+2024-03-07 00:30:00,2024-03-07,00:30,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Badai Petir,26.3,28.4,3.8,Low,23,80.0
+2024-03-07 02:00:00,2024-03-07,02:00,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Berawan,24.3,0.1,9.1,Low,25,80.0
+2024-03-07 03:00:00,2024-03-07,03:00,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Cerah Berawan,23.0,1.1,13.0,Low,19,80.0
+2024-03-07 03:30:00,2024-03-07,03:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Cerah Berawan,23.0,1.1,13.0,Low,10,80.0
+2024-03-07 10:30:00,2024-03-07,10:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Sedang,28.9,9.8,1.9,Low,63,52.3
+2024-03-07 14:30:00,2024-03-07,14:30,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Hujan Ringan,26.8,10.1,5.9,Medium,52,59.5
+2024-03-08 04:00:00,2024-03-08,04:00,Jl. Satrio - Mega Kuningan,-6.311796,106.806502,Kemang,Hujan Lebat,26.2,23.9,3.8,Low,25,80.0
+2024-03-09 03:00:00,2024-03-09,03:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Ringan,24.5,8.5,3.3,Low,16,80.0
+2024-03-09 11:00:00,2024-03-09,11:00,Jl. Jend. Gatot Subroto - Slipi,-6.274291,106.902045,Bekasi,Cerah Berawan,24.7,1.1,4.8,Medium,28,38.7
+2024-03-09 16:00:00,2024-03-09,16:00,Jl. Pondok Indah - Pondok Pinang,-6.342138,106.750299,Blok M,Badai Petir,24.2,21.1,4.3,Low,33,58.4
+2024-03-09 18:30:00,2024-03-09,18:30,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Ringan,24.0,5.6,3.4,Medium,38,37.0
+2024-03-09 19:00:00,2024-03-09,19:00,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Sedang,24.1,16.0,2.6,Medium,60,64.0
+2024-03-09 19:30:00,2024-03-09,19:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Hujan Sedang,24.1,16.0,2.6,Low,49,52.1
+2024-03-09 20:30:00,2024-03-09,20:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Berawan,26.5,1.7,7.1,Low,19,41.9
+2024-03-10 00:00:00,2024-03-10,00:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Ringan,24.1,5.2,2.8,Low,21,80.0
+2024-03-10 03:30:00,2024-03-10,03:30,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Sedang,26.0,17.3,0.5,Low,23,80.0
+2024-03-10 03:30:00,2024-03-10,03:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Sedang,26.0,17.3,0.5,Low,8,80.0
+2024-03-10 09:00:00,2024-03-10,09:00,Jl. Pondok Indah - Pondok Pinang,-6.342138,106.750299,Blok M,Berawan,25.3,1.7,3.4,Low,7,80.0
+2024-03-10 10:00:00,2024-03-10,10:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Hujan Ringan,29.1,9.9,6.8,Low,43,47.0
+2024-03-10 11:30:00,2024-03-10,11:30,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Berawan,24.0,-0.5,5.7,Medium,55,21.1
+2024-03-10 13:00:00,2024-03-10,13:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Sedang,22.9,14.7,1.3,Medium,33,27.8
+2024-03-10 22:30:00,2024-03-10,22:30,Jl. Satrio - Mega Kuningan,-6.311796,106.806502,Kemang,Hujan Lebat,24.7,18.8,2.6,Low,19,80.0
+2024-03-11 19:00:00,2024-03-11,19:00,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Hujan Sedang,22.8,19.8,1.4,Medium,55,29.7
+2024-03-11 22:00:00,2024-03-11,22:00,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Ringan,21.8,3.8,7.1,Low,28,80.0
+2024-03-11 22:30:00,2024-03-11,22:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Ringan,21.8,3.8,7.1,Low,48,35.6
+2024-03-12 05:00:00,2024-03-12,05:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Badai Petir,27.3,20.3,1.9,Low,21,80.0
+2024-03-12 12:30:00,2024-03-12,12:30,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Berawan,25.3,-0.2,8.4,Low,39,31.6
+2024-03-12 12:30:00,2024-03-12,12:30,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Berawan,25.3,-0.2,8.4,Low,58,73.7
+2024-03-12 13:30:00,2024-03-12,13:30,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Lebat,24.2,20.2,1.8,Low,31,49.2
+2024-03-12 20:00:00,2024-03-12,20:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Ringan,24.2,6.8,5.7,Low,12,38.9
+2024-03-12 23:00:00,2024-03-12,23:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Hujan Ringan,24.2,8.9,6.4,Low,9,80.0
+2024-03-13 00:00:00,2024-03-13,00:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Berawan,25.9,0.1,4.4,Low,5,80.0
+2024-03-13 07:00:00,2024-03-13,07:00,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Cerah Berawan,30.1,-1.3,8.0,Medium,62,24.7
+2024-03-13 08:00:00,2024-03-13,08:00,Jl. HR Rasuna Said - Casablanca,-6.270683,106.776612,Cawang,Cerah Berawan,27.6,0.6,11.6,Medium,125,29.0
+2024-03-13 09:00:00,2024-03-13,09:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Hujan Sedang,27.1,15.1,3.7,Medium,85,30.7
+2024-03-13 09:00:00,2024-03-13,09:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Sedang,27.1,15.1,3.7,Medium,67,29.3
+2024-03-13 10:00:00,2024-03-13,10:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Berawan,26.2,1.0,6.9,Low,37,44.6
+2024-03-13 10:00:00,2024-03-13,10:00,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Berawan,26.2,1.0,6.9,Medium,54,61.3
+2024-03-13 10:00:00,2024-03-13,10:00,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Berawan,26.2,1.0,6.9,Low,26,70.1
+2024-03-13 12:00:00,2024-03-13,12:00,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Sedang,22.7,12.4,1.1,Low,72,68.4
+2024-03-13 15:00:00,2024-03-13,15:00,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Hujan Sedang,25.3,14.6,1.8,Low,17,27.6
+2024-03-13 17:00:00,2024-03-13,17:00,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Badai Petir,26.8,24.5,1.2,Medium,93,26.8
+2024-03-13 20:30:00,2024-03-13,20:30,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Cerah Berawan,22.4,1.9,3.8,Low,29,42.0
+2024-03-14 05:00:00,2024-03-14,05:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Sedang,23.0,20.1,0.5,Low,24,80.0
+2024-03-14 07:30:00,2024-03-14,07:30,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Sedang,28.4,19.8,2.7,Medium,65,35.2
+2024-03-14 08:30:00,2024-03-14,08:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Ringan,24.6,6.5,6.9,Medium,120,25.1
+2024-03-14 21:00:00,2024-03-14,21:00,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Cerah Berawan,21.5,-1.9,14.5,Low,45,80.0
+2024-03-15 04:00:00,2024-03-15,04:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Sedang,25.4,18.4,3.3,Low,20,80.0
+2024-03-15 15:00:00,2024-03-15,15:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Berawan,23.7,0.2,8.4,Low,33,46.9
+2024-03-15 15:00:00,2024-03-15,15:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Berawan,23.7,0.2,8.4,Medium,39,40.9
+2024-03-15 15:30:00,2024-03-15,15:30,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Berawan,23.7,0.2,8.4,Low,51,47.7
+2024-03-16 01:30:00,2024-03-16,01:30,Jl. Pemuda - Senen,-6.329711,106.821784,Menteng,Hujan Lebat,28.0,25.5,2.1,Low,22,80.0
+2024-03-16 04:00:00,2024-03-16,04:00,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Cerah Berawan,22.4,-1.5,8.4,Low,17,80.0
+2024-03-16 11:00:00,2024-03-16,11:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Cerah Berawan,24.0,-0.6,10.7,Medium,34,34.9
+2024-03-16 11:00:00,2024-03-16,11:00,Jl. Boulevard Raya - Kelapa Gading,-6.269007,106.813587,Tangerang,Cerah Berawan,24.0,-0.6,10.7,Low,49,20.8
+2024-03-16 13:00:00,2024-03-16,13:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Berawan,22.9,1.6,8.5,Low,43,43.5
+2024-03-16 14:00:00,2024-03-16,14:00,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Hujan Ringan,22.6,8.2,7.8,Medium,46,42.1
+2024-03-16 21:30:00,2024-03-16,21:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Lebat,25.3,28.3,1.2,Low,11,80.0
+2024-03-16 22:30:00,2024-03-16,22:30,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Ringan,26.1,10.5,6.8,Low,11,80.0
+2024-03-17 02:30:00,2024-03-17,02:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Sedang,26.4,13.7,2.3,Low,12,80.0
+2024-03-17 04:30:00,2024-03-17,04:30,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Cerah Berawan,25.0,-1.6,9.9,Low,23,80.0
+2024-03-17 06:00:00,2024-03-17,06:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Hujan Sedang,30.4,9.4,2.8,Low,17,80.0
+2024-03-17 06:30:00,2024-03-17,06:30,Jl. Perintis Kemerdekaan - Cakung,-6.157094,106.797319,Kelapa Gading,Hujan Sedang,30.4,9.4,2.8,Low,12,80.0
+2024-03-17 11:30:00,2024-03-17,11:30,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Cerah Berawan,25.2,1.9,4.6,Medium,42,52.4
+2024-03-17 12:30:00,2024-03-17,12:30,Jl. Jend. Sudirman - Semanggi,-6.236244,106.858119,Slipi,Cerah Berawan,23.3,-0.8,8.5,Medium,56,51.4
+2024-03-17 12:30:00,2024-03-17,12:30,Jl. Kalibata - Jati Padang,-6.153436,106.706045,Grogol,Cerah Berawan,23.3,-0.8,8.5,Low,52,26.0
+2024-03-17 17:00:00,2024-03-17,17:00,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Badai Petir,25.3,22.0,2.0,Low,42,35.8
+2024-03-17 18:00:00,2024-03-17,18:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Sedang,24.4,13.4,1.0,Low,41,25.0
+2024-03-18 04:00:00,2024-03-18,04:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Hujan Ringan,25.0,2.9,3.8,Low,19,80.0
+2024-03-18 04:30:00,2024-03-18,04:30,Jl. Metro Pondok Indah - Ciputat,-6.120604,106.708881,Tangerang,Hujan Ringan,25.0,2.9,3.8,Low,21,80.0
+2024-03-18 12:30:00,2024-03-18,12:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Kabut,23.7,1.6,2.5,Low,19,40.5
+2024-03-18 13:00:00,2024-03-18,13:00,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Hujan Lebat,21.3,24.7,1.6,Low,28,51.5
+2024-03-18 15:30:00,2024-03-18,15:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Lebat,24.5,29.3,1.0,Low,30,25.5
+2024-03-18 18:30:00,2024-03-18,18:30,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Lebat,26.2,29.1,0.8,Medium,98,16.8
+2024-03-19 03:30:00,2024-03-19,03:30,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Berawan,19.8,-0.5,14.8,Low,16,80.0
+2024-03-19 11:30:00,2024-03-19,11:30,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Cerah Berawan,20.5,0.7,4.2,Medium,49,39.8
+2024-03-19 14:30:00,2024-03-19,14:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Sedang,24.4,14.9,0.9,Low,39,57.3
+2024-03-19 15:30:00,2024-03-19,15:30,Jl. Kemang Raya - Bangka,-6.25665,106.867567,Kemang,Hujan Lebat,25.1,28.0,0.8,Medium,30,47.4
+2024-03-19 20:00:00,2024-03-19,20:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Cerah Berawan,24.0,1.7,8.1,Low,32,42.6
+2024-03-19 22:00:00,2024-03-19,22:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Sedang,24.2,15.7,2.3,Low,30,70.0
+2024-03-20 00:00:00,2024-03-20,00:00,Jl. Bypass - Cibubur,-6.113984,106.955501,Mangga Dua,Cerah Berawan,22.7,-0.7,6.0,Low,15,80.0
+2024-03-20 09:30:00,2024-03-20,09:30,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Berawan,30.0,1.6,11.6,Medium,107,25.3
+2024-03-21 20:30:00,2024-03-21,20:30,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Lebat,29.2,27.6,3.2,Low,28,74.7
+2024-03-21 23:00:00,2024-03-21,23:00,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Berawan,23.4,2.0,12.9,Low,20,80.0
+2024-03-22 07:30:00,2024-03-22,07:30,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Lebat,29.1,22.8,1.2,Medium,109,12.8
+2024-03-22 09:30:00,2024-03-22,09:30,Jl. Trunojoyo - Kebayoran,-6.25295,106.985902,Menteng,Hujan Sedang,28.2,13.6,1.7,Medium,118,39.9
+2024-03-22 11:00:00,2024-03-22,11:00,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Hujan Lebat,22.3,25.0,1.3,Low,50,41.7
+2024-03-22 11:30:00,2024-03-22,11:30,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Hujan Lebat,22.3,25.0,1.3,Low,53,40.3
+2024-03-22 16:00:00,2024-03-22,16:00,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Cerah Berawan,25.9,0.7,11.6,Low,52,46.1
+2024-03-22 16:00:00,2024-03-22,16:00,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Cerah Berawan,25.9,0.7,11.6,Low,58,30.6
+2024-03-22 20:30:00,2024-03-22,20:30,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Hujan Ringan,24.4,7.5,4.1,Low,31,70.5
+2024-03-23 06:00:00,2024-03-23,06:00,Jl. Daan Mogot - Grogol,-6.311875,106.891804,Menteng,Badai Petir,26.2,27.4,2.1,Low,9,80.0
+2024-03-23 11:00:00,2024-03-23,11:00,Jl. OTT - Cipayung,-6.107017,106.860825,Mangga Dua,Hujan Sedang,24.8,13.2,0.5,Medium,51,31.9
+2024-03-23 17:30:00,2024-03-23,17:30,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Ringan,21.4,4.8,6.9,Low,61,65.7
+2024-03-23 18:30:00,2024-03-23,18:30,Jl. Raya Kamal - Penjaringan,-6.239156,106.967801,Senen,Hujan Lebat,21.9,28.3,3.4,Low,32,60.1
+2024-03-23 20:30:00,2024-03-23,20:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Cerah Berawan,23.9,-1.1,6.6,Medium,19,54.6
+2024-03-23 22:00:00,2024-03-23,22:00,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Berawan,26.9,1.1,14.6,Low,19,80.0
+2024-03-24 00:00:00,2024-03-24,00:00,Jl. Diponegoro - Cikini,-6.190713,106.82378,Kelapa Gading,Badai Petir,22.9,24.1,1.6,Low,3,80.0
+2024-03-24 02:30:00,2024-03-24,02:30,Jl. Satrio - Mega Kuningan,-6.311796,106.806502,Kemang,Berawan,23.5,2.0,9.1,Low,16,80.0
+2024-03-24 06:00:00,2024-03-24,06:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Ringan,27.7,5.7,6.0,Low,27,80.0
+2024-03-24 06:00:00,2024-03-24,06:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Ringan,27.7,5.7,6.0,Low,7,80.0
+2024-03-24 11:00:00,2024-03-24,11:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Sedang,25.2,16.5,3.1,Low,46,35.1
+2024-03-24 12:30:00,2024-03-24,12:30,Jl. TB Simatupang - Ciracas,-6.228116,106.832055,Mangga Dua,Hujan Sedang,23.7,18.4,1.8,Low,55,34.4
+2024-03-24 14:30:00,2024-03-24,14:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Cerah Berawan,24.1,-1.1,14.9,Low,48,65.5
+2024-03-24 17:30:00,2024-03-24,17:30,Jl. I Gusti Ngurah Rai - Cilincing,-6.220578,106.809532,Cibubur,Hujan Sedang,23.2,12.2,2.0,Low,47,48.5
+2024-03-24 21:00:00,2024-03-24,21:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Ringan,27.3,5.5,5.4,Low,27,80.0
+2024-03-25 04:30:00,2024-03-25,04:30,Jl. Pasar Minggu - Lenteng Agung,-6.232437,106.878927,Senayan,Hujan Ringan,24.2,5.6,3.2,Low,18,80.0
+2024-03-25 12:30:00,2024-03-25,12:30,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Hujan Ringan,25.3,6.8,8.1,Low,59,35.9
+2024-03-25 15:30:00,2024-03-25,15:30,Jl. Tendean - Mampang,-6.248301,106.959944,Sudirman,Cerah Berawan,22.5,-0.2,5.9,Medium,52,53.5
+2024-03-25 17:00:00,2024-03-25,17:00,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Berawan,28.7,-1.7,5.3,Medium,76,34.4
+2024-03-25 19:30:00,2024-03-25,19:30,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Badai Petir,23.9,21.3,2.5,Medium,117,13.3
+2024-03-25 23:00:00,2024-03-25,23:00,Jl. Raya Kebayoran - Blok M,-6.254827,106.866697,Grogol,Berawan,25.7,0.1,10.1,Low,33,80.0
+2024-03-26 00:00:00,2024-03-26,00:00,Jl. Wolter Monginsidi - Kebayoran Baru,-6.104868,106.887878,Pluit,Badai Petir,26.1,30.2,3.0,Low,11,80.0
+2024-03-26 07:00:00,2024-03-26,07:00,Jl. Rasuna Said - Setiabudi,-6.134657,106.923223,Sunter,Hujan Sedang,25.5,16.8,0.5,Medium,53,37.1
+2024-03-26 09:30:00,2024-03-26,09:30,Jl. Senopati - Kebayoran Baru,-6.101548,106.969055,PIK,Cerah Berawan,29.7,1.3,8.2,Medium,84,28.2
+2024-03-26 12:00:00,2024-03-26,12:00,Jl. KS Tubun - Slipi,-6.132922,106.873482,Senen,Hujan Sedang,20.7,17.6,0.6,Medium,59,64.3
+2024-03-26 13:30:00,2024-03-26,13:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Badai Petir,24.3,28.9,2.1,Low,53,75.1
+2024-03-26 20:00:00,2024-03-26,20:00,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Hujan Sedang,23.5,16.1,2.4,Low,47,55.6
+2024-03-27 00:00:00,2024-03-27,00:00,Jl. Hayam Wuruk - Harmoni,-6.335259,106.789533,Sunter,Hujan Sedang,26.5,9.6,2.0,Low,9,80.0
+2024-03-27 01:00:00,2024-03-27,01:00,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Badai Petir,26.8,22.8,3.0,Low,10,80.0
+2024-03-27 03:00:00,2024-03-27,03:00,Jl. Raya Condet - Balekambang,-6.194614,106.715079,Slipi,Hujan Ringan,27.5,5.6,7.3,Low,4,80.0
+2024-03-27 04:30:00,2024-03-27,04:30,Jl. Ciledug - Tangerang,-6.212699,106.96315,Senayan,Hujan Lebat,24.4,22.3,0.6,Low,19,80.0
+2024-03-27 07:00:00,2024-03-27,07:00,Jl. Gatot Subroto - Kuningan,-6.22945,106.714205,Kuningan,Hujan Ringan,28.9,5.5,5.3,Medium,38,30.7
+2024-03-27 07:30:00,2024-03-27,07:30,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Ringan,28.9,5.5,5.3,Medium,112,32.7
+2024-03-27 09:00:00,2024-03-27,09:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Sedang,29.6,17.4,0.9,Medium,51,22.6
+2024-03-27 17:00:00,2024-03-27,17:00,Jl. Casablanca - Kampung Melayu,-6.349356,106.862667,Sudirman,Hujan Ringan,26.2,4.7,6.3,Medium,119,11.8
+2024-03-27 22:00:00,2024-03-27,22:00,Jl. MT Haryono - Cawang,-6.330828,106.709375,Depok,Cerah Berawan,26.3,-1.7,14.6,Low,36,43.3
+2024-03-27 23:30:00,2024-03-27,23:30,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Cerah Berawan,23.7,0.5,7.1,Low,19,80.0
+2024-03-28 02:00:00,2024-03-28,02:00,Jl. Suryo - Senopati,-6.209467,106.921182,Tangerang,Badai Petir,25.9,30.3,2.4,Low,17,80.0
+2024-03-28 16:30:00,2024-03-28,16:30,Jl. Satrio - Mega Kuningan,-6.311796,106.806502,Kemang,Hujan Sedang,25.9,8.9,1.8,Low,65,53.2
+2024-03-28 19:00:00,2024-03-28,19:00,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Cerah Berawan,26.0,0.1,15.2,Medium,48,9.8
+2024-03-28 21:00:00,2024-03-28,21:00,Jl. Yos Sudarso - Sunter,-6.290911,106.843112,Blok M,Cerah Berawan,23.3,1.4,6.9,Low,43,49.9
+2024-03-29 11:30:00,2024-03-29,11:30,Jl. Proklamasi - Menteng,-6.30321,106.824834,Kuningan,Hujan Ringan,27.5,2.1,6.8,Low,60,29.7
+2024-03-29 12:30:00,2024-03-29,12:30,Jl. Raya Bogor - Citereup,-6.213028,106.910585,Bekasi,Berawan,28.8,-1.5,8.9,Medium,54,29.6
+2024-03-29 15:30:00,2024-03-29,15:30,Jl. Warung Buncit - Pejaten,-6.189791,106.990807,Kelapa Gading,Hujan Lebat,20.9,22.0,1.8,Low,35,32.3
+2024-03-29 23:00:00,2024-03-29,23:00,Jl. Thamrin - Monas,-6.307573,106.808325,Senayan,Cerah Berawan,22.8,0.1,4.1,Low,3,80.0
+2024-03-29 23:30:00,2024-03-29,23:30,Jl. Pondok Indah - Pondok Pinang,-6.342138,106.750299,Blok M,Cerah Berawan,22.8,0.1,4.1,Low,17,80.0
+2024-03-30 07:30:00,2024-03-30,07:30,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Ringan,24.4,5.5,4.7,Low,18,80.0
+2024-03-30 11:00:00,2024-03-30,11:00,Jl. Sudirman - Bundaran HI,-6.34447,106.892254,Depok,Hujan Sedang,23.8,15.7,1.1,Medium,66,29.8
+2024-03-30 12:00:00,2024-03-30,12:00,Jl. Fatmawati - Cipete,-6.304548,106.787167,Pluit,Hujan Ringan,24.9,1.2,6.5,Low,24,40.3
+2024-03-30 15:30:00,2024-03-30,15:30,Jl. Pluit - Muara Karang,-6.209726,106.804216,Pluit,Berawan,26.6,1.0,12.4,Low,48,24.6
+2024-03-30 16:30:00,2024-03-30,16:30,Jl. Gajah Mada - Mangga Dua,-6.160784,106.967608,Blok M,Hujan Lebat,22.1,24.0,1.1,Medium,65,44.9
+2024-03-30 21:30:00,2024-03-30,21:30,Jl. Kramat Raya - Senen,-6.286055,106.77422,PIK,Cerah Berawan,22.7,1.3,6.2,Low,11,80.0
+2024-03-31 01:30:00,2024-03-31,01:30,Jl. Raden Saleh - Salemba,-6.29455,106.702558,Cawang,Berawan,24.0,-1.1,4.1,Low,27,80.0
+2024-03-31 06:00:00,2024-03-31,06:00,Jl. Pantai Indah Kapuk - PIK,-6.213754,106.91665,Sudirman,Kabut,24.5,1.6,2.8,Low,0,80.0
+2024-03-31 19:00:00,2024-03-31,19:00,Jl. Asia Afrika - Gelora Bung Karno,-6.247468,106.769042,Depok,Hujan Sedang,26.4,9.0,2.4,Low,57,60.8
